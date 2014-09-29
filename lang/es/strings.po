@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: adarkroom\n"
 "POT-Creation-Date: 2014-02-09 13:11+0100\n"
-"PO-Revision-Date: 2014-05-19 13:34-0500\n"
-"Last-Translator: Vanadar <vanadar.univers@gmail.com>\n"
+"PO-Revision-Date: 2014-07-18 17:01-0600\n"
+"Last-Translator: Elia Paola Falcon Gastelum <cacoepy@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.5\n"
+"X-Generator: Poedit 1.6.6\n"
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: s;\n"
@@ -17,401 +17,394 @@ msgstr ""
 
 #: ../../script/room.js:18
 msgid "trap"
-msgstr "piège"
+msgstr "trampa"
 
 #: ../../script/room.js:21
 msgid ""
 "builder says she can make traps to catch any creatures might still be alive "
 "out there"
 msgstr ""
-"l'ouvrière dit qu'elle peut fabriquer des pièges pour attraper des animaux "
-"qui pourraient être toujours vivant dehors"
+"el manitas dice que puede hacer trampas para capturar cualquier "
+"creatura que esté viva allá afuera"
 
 #: ../../script/room.js:22
 msgid "more traps to catch more creatures"
-msgstr "plus de pièges pour attraper plus d'animaux"
+msgstr "más trampas para capturar más creaturas"
 
 #: ../../script/room.js:23
 msgid "more traps won't help now"
-msgstr "plus de piège n'apportera rien de plus maintenant"
+msgstr "más trampas no serán de ayuda ahora"
 
 #: ../../script/room.js:33
 msgid "cart"
-msgstr "charrette"
+msgstr "carro"
 
 #: ../../script/room.js:36
 msgid "builder says she can make a cart for carrying wood"
-msgstr ""
-"l’ouvrière dit qu'elle peut construire un charrette pour ramasser du bois"
+msgstr "el manitas dice que puede hacer un carro para transportar madera"
 
 #: ../../script/room.js:37
 msgid "the rickety cart will carry more wood from the forest"
-msgstr "la charrette délabrée aidera à ramener plus de bois de la forêt"
+msgstr "el carro destartalado transportará más madera desde el bosque"
 
 #: ../../script/room.js:46
 msgid "hut"
-msgstr "cabane"
+msgstr "cabaña"
 
 #: ../../script/room.js:49
 msgid "builder says there are more wanderers. says they'll work, too."
 msgstr ""
-"l'ouvrière dit qu'il y'a d'autres vagabonds dehors. elle dit qu'ils "
-"travailleront. eux aussi."
+"el manitas dice que hay más vagabundos. dice que trabajarán también."
 
 #: ../../script/room.js:50
 msgid "builder puts up a hut, out in the forest. says word will get around."
 msgstr ""
-"l'ouvrière construit une cabane dans la foret. Elle dit que ça se saura."
+"el manitas levanta una cabaña, afuera en el bosque. dice que la voz se "
+"correrá."
 
 #: ../../script/room.js:51
 msgid "no more room for huts."
-msgstr "il n'y a plus de place pour des cabanes."
+msgstr "no hay espacio para más cabañas."
 
 #: ../../script/room.js:61
 msgid "lodge"
-msgstr "relais de chasse"
+msgstr "pabellón"
 
 #: ../../script/room.js:64
 msgid "villagers could help hunt, given the means"
-msgstr ""
-"les villageois pourraient aider pour la chasse, si on leur donne les moyens"
+msgstr "los aldeanos pueden ayudar a cazar, si se les proporcionan los medios"
 
 #: ../../script/room.js:65
 msgid "the hunting lodge stands in the forest, a ways out of town"
-msgstr "la cabane de chasseur est construite à la sortie du village"
+msgstr ""
+"el pabellón de cacería se encuentra en el bosque, un largo camino fuera del "
+"pueblo"
 
 #: ../../script/room.js:76
 msgid "trading post"
-msgstr "comptoir"
+msgstr "mercado"
 
 #: ../../script/room.js:79
 msgid "a trading post would make commerce easier"
-msgstr "un comptoir rendrait le commerce plus facile"
+msgstr "un mercado haría el comercio más accesible"
 
 #: ../../script/room.js:80
 msgid ""
 "now the nomads have a place to set up shop, they might stick around a while"
 msgstr ""
-"maintenant que les nomades ont un endroit pour faire du commerce, ils "
-"resteront ici quelques temps"
+"ahora los nómadas tienen un lugar para establecer su negocio, puede que se "
+"queden por un tiempo"
 
 #: ../../script/room.js:90
 msgid "tannery"
-msgstr "tannerie"
+msgstr "tenería"
 
 #: ../../script/room.js:93
 msgid "builder says leather could be useful. says the villagers could make it."
 msgstr ""
-"l'ouvrière dit que du cuir pourrait être utile. elle dit que les villageois "
-"pourraient en fabriquer."
+"el manitas dice que el cuero puede ser útil. dice que los aldeanos "
+"podrían hacerlo."
 
 #: ../../script/room.js:94
 msgid "tannery goes up quick, on the edge of the village"
-msgstr "au bord du village, la tannerie se construit vite"
+msgstr "la tenería es construída rápidamente, a la orilla de la aldea"
 
 #: ../../script/room.js:104
 msgid "smokehouse"
-msgstr "fumoir"
+msgstr "ahumador"
 
 #: ../../script/room.js:107
 msgid ""
 "should cure the meat, or it'll spoil. builder says she can fix something up."
 msgstr ""
-"il faudrait faire sécher la viande pour éviter qu'elle pourrisse. L'ouvrière "
-"dit qu'elle pourra bricoler quelque chose."
+"la carne debe curarse, o se echará a perder. el manitas dice que puede "
+"hacer algo al respecto."
 
 #: ../../script/room.js:108
 msgid "builder finishes the smokehouse. she looks hungry."
-msgstr "L'ouvrière a fini le fumoir. elle a l'air affamée."
+msgstr "el manitas termina el ahumador. se ve hambrienta."
 
 #: ../../script/room.js:118
 msgid "workshop"
-msgstr "atelier"
+msgstr "taller"
 
 #: ../../script/room.js:121
 msgid "builder says she could make finer things, if she had the tools"
 msgstr ""
-"L'ouvrière dit qu'elle pourrait faire des objets de meilleurs qualités, si "
-"elle avait les outils."
+"el manitas dice que podría hacer cosas más sofisticadas, si tuviera los "
+"medios"
 
 #: ../../script/room.js:122
 msgid "workshop's finally ready. builder's excited to get to it"
-msgstr "l'atelier est enfin prêt. L'ouvrière est impatiente de s'y mettre"
+msgstr "el taller está listo. el manitas no puede esperar para usarlo"
 
 #: ../../script/room.js:133
 msgid "steelworks"
-msgstr "aciérie"
+msgstr "acería"
 
 #: ../../script/room.js:136
 msgid "builder says the villagers could make steel, given the tools"
 msgstr ""
-"l'ouvrière dit qu'avec les bon outils, les villageois pourraient fabriquer "
-"de l'acier"
+"el manitas dice que los aldeanos podrían fabricar acero, si tuvieran "
+"los medios"
 
 #: ../../script/room.js:137
 msgid "a haze falls over the village as the steelworks fires up"
-msgstr "une brume tombe sur le village lorsque l’aciérie démarre"
+msgstr "una neblina cae sobre la aldea mientras que la acería se enciende"
 
 #: ../../script/room.js:148
 msgid "armoury"
-msgstr "armurerie"
+msgstr "armería"
 
 #: ../../script/room.js:151
 msgid "builder says it'd be useful to have a steady source of bullets"
-msgstr ""
-"l'ouvrière dit que ça pourrait être intéressant d'avoir une source "
-"d'approvisionnement constante en munitions"
+msgstr "el manitas dice que sería útil tener una fuente continua de balas"
 
 #: ../../script/room.js:152
 msgid "armoury's done, welcoming back the weapons of the past."
-msgstr ""
-"l'armurerie est finie, récupérant avec plaisir les armes d'un temps passé."
+msgstr "la armería está lista, dando la bienvenida a las armas del pasado."
 
 #: ../../script/room.js:163 ../../script/localization.js:5
 msgid "torch"
-msgstr "torche"
+msgstr "antorcha"
 
 #: ../../script/room.js:166
 msgid "a torch to keep the dark away"
-msgstr "une torche pour repousser la nuit"
+msgstr "una antorcha para alejar la oscuridad"
 
 #: ../../script/room.js:175
 msgid "waterskin"
-msgstr "gourde"
+msgstr "cantimplora"
 
 #: ../../script/room.js:179
 msgid "this waterskin'll hold a bit of water, at least"
-msgstr "cette gourde retiendra un peu d'eau, au moins"
+msgstr "esta cantimplora cargará un poco de agua, al menos"
 
 #: ../../script/room.js:187
 msgid "cask"
-msgstr "tonneau"
+msgstr "barril"
 
 #: ../../script/room.js:191
 msgid "the cask holds enough water for longer expeditions"
-msgstr "le tonneau contiendra assez d'eau pour des expéditions plus longues"
+msgstr "el barril contenerá suficiente agua para expediciones más largas"
 
 #: ../../script/room.js:200
 msgid "water tank"
-msgstr "réservoir d'eau"
+msgstr "tanque de agua"
 
 #: ../../script/room.js:204
 msgid "never go thirsty again"
-msgstr "plus jamais soif"
+msgstr "sediento nunca más"
 
 #: ../../script/room.js:213
 msgid "bone spear"
-msgstr "lance"
+msgstr "lanza de hueso"
 
 #: ../../script/room.js:216
 msgid "this spear's not elegant, but it's pretty good at stabbing"
-msgstr ""
-"cette lance n'est pas très jolie, mais elle est très bonne pour frapper"
+msgstr "esta lanza no es elegante, pero es muy buena para apuñalar"
 
 #: ../../script/room.js:225 ../../script/world.js:279
 msgid "rucksack"
-msgstr "sac à dos"
+msgstr "mochila"
 
 #: ../../script/room.js:229
 msgid "carrying more means longer expeditions to the wilds"
-msgstr ""
-"porter plus signifie des expéditions plus longue dans les contrés sauvages"
+msgstr "cargar más significa expediciones más largas en lo salvaje"
 
 #: ../../script/room.js:237
 msgid "wagon"
-msgstr "chariot"
+msgstr "carreta"
 
 #: ../../script/room.js:241
 msgid "the wagon can carry a lot of supplies"
-msgstr "le chariot peut transporter plus de provisions"
+msgstr "la carreta puede cargar muchos suministros"
 
 #: ../../script/room.js:250
 msgid "convoy"
-msgstr "convoi"
+msgstr "convoy"
 
 #: ../../script/room.js:254
 msgid "the convoy can haul mostly everything"
-msgstr "le convoi peut transporter presque tout"
+msgstr "el convoy puede acarrear casi todo"
 
 #: ../../script/room.js:264
 msgid "l armour"
-msgstr "armure cuir"
+msgstr "armadura c"
 
 #: ../../script/room.js:267
 msgid "leather's not strong. better than rags, though."
-msgstr "le cuir n'est pas très résistant, mais c'est mieux que des chiffons."
+msgstr "el cuero no es resistente. aunque es mejor que harapos."
 
 #: ../../script/room.js:276
 msgid "i armour"
-msgstr "armure fer"
+msgstr "armadura h"
 
 #: ../../script/room.js:279
 msgid "iron's stronger than leather"
-msgstr "le fer est plus dur que le cuir"
+msgstr "el hierro es más fuerte que el cuero"
 
 #: ../../script/room.js:288
 msgid "s armour"
-msgstr "armure acier"
+msgstr "armadura a"
 
 #: ../../script/room.js:291
 msgid "steel's stronger than iron"
-msgstr "l'acier est plus dur que le fer"
+msgstr "el acero es más fuerte que el hierro"
 
 #: ../../script/room.js:300
 msgid "iron sword"
-msgstr "épée en fer"
+msgstr "espada de hierro"
 
 #: ../../script/room.js:303
 msgid "sword is sharp. good protection out in the wilds."
-msgstr "l'épée est tranchante, une bonne protection dans la nature."
+msgstr "la espada está afilada. buena protección afuera en lo salvaje."
 
 #: ../../script/room.js:313
 msgid "steel sword"
-msgstr "épée en acier"
+msgstr "espada de acero"
 
 #: ../../script/room.js:316
 msgid "the steel is strong, and the blade true."
-msgstr "l'acier est résistant, et la larme magnifique"
+msgstr "el acero es fuerte, y el filo real."
 
 #: ../../script/room.js:326
 msgid "rifle"
-msgstr "fusil"
+msgstr "rifle"
 
 #: ../../script/room.js:328
 msgid "black powder and bullets, like the old days."
-msgstr "de la poudre noir et des balles, comme a l'époque."
+msgstr "pólvora negra y balas, como en los viejos tiempos."
 
 #: ../../script/room.js:460
 msgid "Room"
-msgstr "Pièce"
+msgstr "Habitación"
 
 #: ../../script/room.js:484 ../../script/room.js:603
 msgid "A Dark Room"
-msgstr "Une pièce sombre"
+msgstr "Una Habitación Oscura"
 
 #: ../../script/room.js:497
 msgid "light fire"
-msgstr "allumer le feu"
+msgstr "encender fogata"
 
 #: ../../script/room.js:507
 msgid "stoke fire"
-msgstr "attiser le feu"
+msgstr "avivar el fuego"
 
 #: ../../script/room.js:544 ../../script/room.js:554 ../../script/room.js:702
 #: ../../script/room.js:706
 msgid "the room is {0}"
-msgstr "la pièce est {0}"
+msgstr "la habitación está {0}"
 
 #: ../../script/room.js:545 ../../script/room.js:553 ../../script/room.js:671
 msgid "the fire is {0}"
-msgstr "le feu {0}"
+msgstr "la fogata está {0}"
 
 #: ../../script/room.js:564
 msgid ""
 "the stranger is standing by the fire. she says she can help. says she builds "
 "things."
 msgstr ""
-"l'étrangère se tient prêt du feu. elle dit qu'elle peut aider. elle dit "
-"qu'elle sait construire des choses."
+"el extraño se encuentra junto a la fogata. dice que puede ayudar. dice que "
+"construye cosas."
 
 #: ../../script/room.js:579
 msgid "freezing"
-msgstr "gelée"
+msgstr "congelada"
 
 #: ../../script/room.js:580
 msgid "cold"
-msgstr "froide"
+msgstr "fría"
 
 #: ../../script/room.js:581
 msgid "mild"
-msgstr "tiède"
+msgstr "leve"
 
 #: ../../script/room.js:582
 msgid "warm"
-msgstr "douce"
+msgstr "cálida"
 
 #: ../../script/room.js:583
 msgid "hot"
-msgstr "chaude"
+msgstr "caliente"
 
 #: ../../script/room.js:595
 msgid "dead"
-msgstr "est éteint"
+msgstr "muerta"
 
 #: ../../script/room.js:596
 msgid "smoldering"
-msgstr "est fumant"
+msgstr "latente"
 
 #: ../../script/room.js:597
 msgid "flickering"
-msgstr "vacille"
+msgstr "parpadeando"
 
 #: ../../script/room.js:598
 msgid "burning"
-msgstr "crépite"
+msgstr "quemando"
 
 #: ../../script/room.js:599
 msgid "roaring"
-msgstr "brûle"
+msgstr "rugiendo"
 
 #: ../../script/room.js:603
 msgid "A Firelit Room"
-msgstr "Une pièce éclairée"
+msgstr "Una Habitación Iluminada"
 
 #: ../../script/room.js:641
 msgid "not enough wood to get the fire going"
-msgstr "pas assez de bois pour alimenter le feu"
+msgstr "no hay suficiente madera para mantener la fogata"
 
 #: ../../script/room.js:654
 msgid "the wood has run out"
-msgstr "il n'y a plus de bois"
+msgstr "la madera se ha acabado"
 
 #: ../../script/room.js:674
 msgid "the light from the fire spills from the windows, out into the dark"
-msgstr ""
-"la lumière du feu  se repend  à travers la a fenêtre, dehors dans la nuit"
+msgstr "la luz de la fogata sale desde las ventanas, hacia la oscuridad"
 
 #: ../../script/room.js:687
 msgid "builder stokes the fire"
-msgstr "L'ouvrier attise le feu"
+msgstr "el manitas aviva el fuego"
 
 #: ../../script/room.js:717
 msgid "the wind howls outside"
-msgstr "le vent siffle dehors"
+msgstr "el viento aulla afuera"
 
 #: ../../script/room.js:718
 msgid "the wood is running out"
-msgstr "il n'y a bientôt plus de bois"
+msgstr "la madera se está acabando"
 
 #: ../../script/room.js:725
 msgid "a ragged stranger stumbles through the door and collapses in the corner"
-msgstr "une étrangère en loque rentre en titubant et s'effondre dans un coin"
+msgstr "un extraño en harapos se tropieza en la puerta y colapsa en la esquina"
 
 #: ../../script/room.js:733
 msgid ""
 "the stranger shivers, and mumbles quietly. her words are unintelligible."
-msgstr ""
-"l'étrangère tremble, marmonne quelques mots. ses mots sont inintelligibles."
+msgstr "el extraño tiembla, y murmura despacio. sus palabras no se entienden."
 
 #: ../../script/room.js:736
 msgid "the stranger in the corner stops shivering. her breathing calms."
-msgstr "l'étrangère dans le coin arrête de trembler. sa respiration se calme."
+msgstr "el extraño en la esquina deja de temblar. su respiración se calma."
 
 #: ../../script/room.js:890 ../../script/room.js:938
 msgid "not enough "
-msgstr "insuffisant"
+msgstr "no es suficiente"
 
 #: ../../script/room.js:910
 msgid "builder just shivers"
-msgstr "L'ouvrière à trop froid"
+msgstr "el manitas sólo tiembla"
 
 #: ../../script/events.js:126
 msgid "eat meat"
-msgstr "manger"
+msgstr "comer carne"
 
 #: ../../script/events.js:146
 msgid "use meds"
-msgstr "se soigner"
+msgstr "usar medicamento"
 
 #: ../../script/events.js:474 ../../script/events/room.js:139
 #: ../../script/events/room.js:159 ../../script/events/room.js:179
@@ -428,237 +421,237 @@ msgstr "se soigner"
 #: ../../script/events/setpieces.js:3412 ../../script/events/setpieces.js:3440
 #: ../../script/events/global.js:41 ../../script/events/global.js:58
 msgid "leave"
-msgstr "partir"
+msgstr "salir"
 
 #: ../../script/engine.js:20
 msgid "boxer"
-msgstr "boxeur"
+msgstr "boxeador"
 
 #: ../../script/engine.js:21
 msgid "punches do more damage"
-msgstr "les points font plus de dégats"
+msgstr "los golpes hacen más daño"
 
 #: ../../script/engine.js:22
 msgid "learned to throw punches with purpose"
-msgstr "appris à donner des coups de points avec un objectif"
+msgstr "aprendido lanzar golpes con propósito"
 
 #: ../../script/engine.js:25
 msgid "martial artist"
-msgstr "maître d'un art martial"
+msgstr "artista marcial"
 
 #: ../../script/engine.js:26
 msgid "punches do even more damage."
-msgstr "les coups de points font plus de dégats"
+msgstr "los golpes hacen aún más daño."
 
 #: ../../script/engine.js:27
 msgid "learned to fight quite effectively without weapons"
-msgstr "apprendre à se battre de façon efficace sans arme"
+msgstr "aprendido luchar efectivamente sin armas"
 
 #: ../../script/engine.js:30
 msgid "unarmed master"
-msgstr "expert en combat à mains nues"
+msgstr "experto sin armas"
 
 #: ../../script/engine.js:31
 msgid "punch twice as fast, and with even more force"
-msgstr "frapper deux fois plus vite, et avec plus de force"
+msgstr "golpea al doble de rápido, y con más fuerza"
 
 #: ../../script/engine.js:32
 msgid "learned to strike faster without weapons"
-msgstr "appris à attaquer plus vite sans arme"
+msgstr "aprendido a golpear más rápido sin armas"
 
 #: ../../script/engine.js:35
 msgid "barbarian"
-msgstr "barbare"
+msgstr "bárbaro"
 
 #: ../../script/engine.js:36
 msgid "melee weapons deal more damage"
-msgstr "les armes de mêlés font plus de dégâts"
+msgstr "las armas cuerpo a cuerpo hacen más daño"
 
 #: ../../script/engine.js:37
 msgid "learned to swing weapons with force"
-msgstr "vous savez manier vos armes avec plus de force"
+msgstr "aprendido usar armas con fuerza"
 
 # contexte ?
 #: ../../script/engine.js:40
 msgid "slow metabolism"
-msgstr "métabolisme lent"
+msgstr "metabolismo lento"
 
 #: ../../script/engine.js:41
 msgid "go twice as far without eating"
-msgstr "aller deux fois plus loin sans manger"
+msgstr "ir al doble de distancia sin comer"
 
 #: ../../script/engine.js:42
 msgid "learned how to ignore the hunger"
-msgstr "vous savez ignorer la faim"
+msgstr "aprendido ignorar el hambre"
 
 #: ../../script/engine.js:45
 msgid "desert rat"
-msgstr "rat du désert"
+msgstr "rata del desierto"
 
 #: ../../script/engine.js:46
 msgid "go twice as far without drinking"
-msgstr "aller deux fois plus loin sans boire"
+msgstr "ir al doble de distancia sin beber"
 
 #: ../../script/engine.js:47
 msgid "learned to love the dry air"
-msgstr "vous savez apprécier l'air sec"
+msgstr "aprendido amar el aire seco"
 
 #: ../../script/engine.js:50
 msgid "evasive"
-msgstr "esquive"
+msgstr "evasivo"
 
 #: ../../script/engine.js:51
 msgid "dodge attacks more effectively"
-msgstr "esquiver les attaques de façon plus efficace"
+msgstr "esquivar ataques más efectivamente"
 
 #: ../../script/engine.js:52
 msgid "learned to be where they're not"
-msgstr "vous savez être là où ils ne sont pas"
+msgstr "aprendido estar donde ellos no"
 
 #: ../../script/engine.js:55
 msgid "precise"
-msgstr "précision"
+msgstr "precisión"
 
 # description pour la précision ...
 #: ../../script/engine.js:56
 msgid "land blows more often"
-msgstr "mieux reconnaître les mouvements"
+msgstr "golpea más seguido"
 
 #: ../../script/engine.js:57
 msgid "learned to predict their movement"
-msgstr "vous savez prédire leurs mouvement"
+msgstr "aprendido predicción de movimiento"
 
 #: ../../script/engine.js:60
 msgid "scout"
-msgstr "éclaireur"
+msgstr "explorar"
 
 #: ../../script/engine.js:61
 msgid "see farther"
-msgstr "voir plus loin"
+msgstr "ver más lejos"
 
 #: ../../script/engine.js:62
 msgid "learned to look ahead"
-msgstr "vous savez regarder plus loin"
+msgstr "aprendido mirar hacia adelante"
 
 #: ../../script/engine.js:65
 msgid "stealthy"
-msgstr "furtif"
+msgstr "sigiloso"
 
 #: ../../script/engine.js:66
 msgid "better avoid conflict in the wild"
-msgstr "mieux éviter les conflits dans un environnement hostile"
+msgstr "mejor al evitar conflicto en lo salvaje"
 
 #: ../../script/engine.js:67
 msgid "learned how not to be seen"
-msgstr "vous savez comment ne pas être vu"
+msgstr "aprendido a no ser visto"
 
 #: ../../script/engine.js:70
 msgid "gastronome"
-msgstr "gastronome"
+msgstr "gastrónomo"
 
 #: ../../script/engine.js:71
 msgid "restore more health when eating"
-msgstr "récupérer plus de vie en mangeant"
+msgstr "recuperar más salud al comer"
 
 #: ../../script/engine.js:72
 msgid "learned to make the most of food"
-msgstr "vous savez tirer partie un maximum de la nourriture"
+msgstr "aprendido a obtener lo máximo de la comida"
 
 #: ../../script/engine.js:114 ../../script/engine.js:408
 msgid "lights off."
-msgstr "lumières éteintes."
+msgstr "luces fuera."
 
 #: ../../script/engine.js:120 ../../script/space.js:439
 msgid "restart."
-msgstr "recommencer."
+msgstr "reiniciar."
 
 #: ../../script/engine.js:126
 msgid "share."
-msgstr "partager."
+msgstr "compartir."
 
 #: ../../script/engine.js:132
 msgid "save."
-msgstr "sauvegarder."
+msgstr "guardar."
 
 #: ../../script/engine.js:138
 msgid "app store."
-msgstr "app store"
+msgstr "app store."
 
 #: ../../script/engine.js:216
 msgid "Export / Import"
-msgstr "Exporter/Importer"
+msgstr "Exportar / Importar"
 
 #: ../../script/engine.js:219
 msgid "export or import save data, for backing up"
-msgstr "exporter ou importer vos données de sauvegarde"
+msgstr "exportar o importar datos guardados, para respaldar"
 
 #: ../../script/engine.js:220
 msgid "or migrating computers"
-msgstr "pour sauver votre partie ou changer d'ordinateur"
+msgstr "o migrar computadoras"
 
 #: ../../script/engine.js:223
 msgid "export"
-msgstr "exporter"
+msgstr "exportar"
 
 #: ../../script/engine.js:227
 msgid "import"
-msgstr "importer"
+msgstr "importar"
 
 #: ../../script/engine.js:231
 msgid "cancel"
-msgstr "annuler"
+msgstr "cancelar"
 
 #: ../../script/engine.js:237
 msgid "are you sure?"
-msgstr "êtes vous sur ?"
+msgstr "estás seguro?"
 
 #: ../../script/engine.js:238
 msgid "if the code is invalid, all data will be lost."
-msgstr "si le code est incorrect, toutes les données seront perdues."
+msgstr "si el código es inválido, los datos se perderán"
 
 #: ../../script/engine.js:239
 msgid "this is irreversible."
-msgstr "Il n'y a pas de retour en arrière possible."
+msgstr "esto es irreversible."
 
 #: ../../script/engine.js:242 ../../script/engine.js:303
 msgid "yes"
-msgstr "oui"
+msgstr "sí"
 
 #: ../../script/engine.js:247 ../../script/engine.js:308
 msgid "no"
-msgstr "non"
+msgstr "no"
 
 #: ../../script/engine.js:263
 msgid "Export"
-msgstr "Exporter"
+msgstr "Exportar"
 
 #: ../../script/engine.js:266
 msgid "save this."
-msgstr "sauvegarder."
+msgstr "guardar esto."
 
 #: ../../script/engine.js:270
 msgid "got it"
-msgstr "compris"
+msgstr "listo"
 
 #: ../../script/engine.js:280
 msgid "put the save code here."
-msgstr "copier le code ici."
+msgstr "coloca aquí el código de guardado."
 
 #: ../../script/engine.js:297
 msgid "Restart?"
-msgstr "Recommencer ?"
+msgstr "Reiniciar?"
 
 #: ../../script/engine.js:300
 msgid "restart the game?"
-msgstr "recommencer la partie ?"
+msgstr "reiniciar el juego?"
 
 #: ../../script/engine.js:331
 msgid "Share"
-msgstr "Partager"
+msgstr "Compartir"
 
 #: ../../script/engine.js:334
 msgid "bring your friends."
-msgstr "Invitez vos amis."
+msgstr "invita a tus amigos."
 
 #: ../../script/engine.js:337
 msgid "facebook"
@@ -678,275 +671,275 @@ msgstr "reddit"
 
 #: ../../script/engine.js:365
 msgid "close"
-msgstr "fermer"
+msgstr "cerrar"
 
 #: ../../script/engine.js:399 ../../script/engine.js:403
 msgid "lights on."
-msgstr "lumières allumées."
+msgstr "luces encendidas."
 
 #: ../../script/engine.js:501
 msgid "{0} per {1}s"
-msgstr "{0} /{1}s"
+msgstr "{0} / {1}s"
 
 #: ../../script/localization.js:3
 msgid "saved."
-msgstr "sauvegarde."
+msgstr "guardado."
 
 #: ../../script/localization.js:3
 msgid "wood"
-msgstr "bois"
+msgstr "madera"
 
 #: ../../script/localization.js:3
 msgid "builder"
-msgstr "ouvrier"
+msgstr "constructor"
 
 #: ../../script/localization.js:3
 msgid "teeth"
-msgstr "dent"
+msgstr "diente"
 
 #: ../../script/localization.js:3
 msgid "meat"
-msgstr "viande"
+msgstr "carne"
 
 #: ../../script/localization.js:3
 msgid "fur"
-msgstr "fourrure"
+msgstr "pelaje"
 
 #: ../../script/localization.js:3
 msgid "alien alloy"
-msgstr "alliage extraterrestre"
+msgstr "aleación alienígena"
 
 #: ../../script/localization.js:3
 msgid "bullets"
-msgstr "balles"
+msgstr "balas"
 
 #: ../../script/localization.js:4
 msgid "charm"
-msgstr "charme"
+msgstr "talismán"
 
 #: ../../script/localization.js:4 ../../script/path.js:138
 msgid "leather"
-msgstr "cuir"
+msgstr "cuero"
 
 #: ../../script/localization.js:4 ../../script/path.js:136
 msgid "iron"
-msgstr "fer"
+msgstr "hierro"
 
 #: ../../script/localization.js:4 ../../script/path.js:134
 msgid "steel"
-msgstr "acier"
+msgstr "acero"
 
 #: ../../script/localization.js:4
 msgid "coal"
-msgstr "charbon"
+msgstr "carbón"
 
 #: ../../script/localization.js:4
 msgid "enegy cell"
-msgstr "chargeur energie"
+msgstr "celda de energía"
 
 #: ../../script/localization.js:5
 msgid "medicine"
-msgstr "médicament"
+msgstr "medicamento"
 
 #: ../../script/localization.js:5 ../../script/outside.js:20
 msgid "hunter"
-msgstr "chasseur"
+msgstr "cazador"
 
 #: ../../script/localization.js:5 ../../script/outside.js:28
 msgid "trapper"
-msgstr "trappeur"
+msgstr "trampero"
 
 #: ../../script/localization.js:5 ../../script/outside.js:36
 msgid "tanner"
-msgstr "tanneur"
+msgstr "curtidor"
 
 #: ../../script/localization.js:6 ../../script/outside.js:44
 msgid "charcutier"
-msgstr "boucher"
+msgstr "carnicería"
 
 #: ../../script/localization.js:6 ../../script/outside.js:53
 msgid "iron miner"
-msgstr "mineur de fer"
+msgstr "minero de hierro"
 
 #: ../../script/localization.js:6 ../../script/outside.js:61
 msgid "coal miner"
-msgstr "mineur de charbon"
+msgstr "minero de carbón"
 
 #: ../../script/localization.js:6 ../../script/outside.js:69
 msgid "sulphur miner"
-msgstr "mineur de souffre"
+msgstr "minero de azufre"
 
 #: ../../script/localization.js:6 ../../script/outside.js:86
 msgid "armourer"
-msgstr "armurier"
+msgstr "armero"
 
 #: ../../script/localization.js:7 ../../script/outside.js:77
 msgid "steelworker"
-msgstr "sidérurgiste"
+msgstr "trabajador sidedúrgico"
 
 #: ../../script/localization.js:7
 msgid "bait"
-msgstr "appât"
+msgstr "carnada"
 
 #: ../../script/localization.js:7 ../../script/localization.js:8
 msgid "cured meat"
-msgstr "viande séchée"
+msgstr "cecina"
 
 #: ../../script/localization.js:7 ../../script/localization.js:8
 msgid "scales"
-msgstr "écailles"
+msgstr "escama"
 
 #: ../../script/localization.js:7
 msgid "compass"
-msgstr "boussole"
+msgstr "brújula"
 
 #: ../../script/localization.js:7
 msgid "laser rifle"
-msgstr "fusil lazer"
+msgstr "rifle láser"
 
 #: ../../script/localization.js:8 ../../script/outside.js:13
 msgid "gatherer"
-msgstr "ramasseur"
+msgstr "recolector"
 
 #: ../../script/localization.js:8
 msgid "cloth"
-msgstr "chiffon"
+msgstr "tela"
 
 #: ../../script/localization.js:8
 msgid "thieves"
-msgstr "voleurs"
+msgstr "ladrones"
 
 #: ../../script/localization.js:9
 msgid "not enough fur"
-msgstr "fourrure insuffisante"
+msgstr "no hay suficiente pelaje"
 
 #: ../../script/localization.js:9
 msgid "not enough wood"
-msgstr "bois insuffisant"
+msgstr "no hay suficiente madera"
 
 #: ../../script/localization.js:9
 msgid "not enough coal"
-msgstr "charbon insuffisant"
+msgstr "no hay suficiente carbón"
 
 #: ../../script/localization.js:9
 msgid "not enough iron"
-msgstr "fer insuffisant"
+msgstr "no hay suficiente hierro"
 
 #: ../../script/localization.js:9
 msgid "not enough steel"
-msgstr "acier insuffisant"
+msgstr "no hay suficiente acero"
 
 #: ../../script/localization.js:9
 msgid "baited trap"
-msgstr "piège avec appât"
+msgstr "trampa con carnada"
 
 #: ../../script/localization.js:10
 msgid "not enough scales"
-msgstr "écaille insuffisante"
+msgstr "no hay suficientes escamas"
 
 #: ../../script/localization.js:10
 msgid "not enough cloth"
-msgstr "chiffon insuffisante"
+msgstr "no hay suficiente tela"
 
 #: ../../script/localization.js:10
 msgid "not enough teeth"
-msgstr "dent insuffisante"
+msgstr "no hay suficientes dientes"
 
 #: ../../script/localization.js:10
 msgid "not enough leather"
-msgstr "cuir insuffisant"
+msgstr "no hay suficiente cuero"
 
 #: ../../script/localization.js:11
 msgid "the compass points east."
-msgstr "la boussole pointe vers l'est."
+msgstr "la brújula apunta al este."
 
 #: ../../script/localization.js:11
 msgid "the compass points west."
-msgstr "le boussole pointe vers l'ouest"
+msgstr "la brújula apunta al oeste."
 
 #: ../../script/localization.js:11
 msgid "the compass points north."
-msgstr "le boussole pointe vers le nord."
+msgstr "la brújula apunta al norte."
 
 #: ../../script/localization.js:11
 msgid "the compass points south."
-msgstr "la boussole pointe vers le sud"
+msgstr "la brújula apunta al sur."
 
 #: ../../script/localization.js:12
 msgid "the compass points northeast."
-msgstr "le boussole pointe vers le nord est."
+msgstr "la brújula apunta al noreste."
 
 #: ../../script/localization.js:12
 msgid "the compass points northwest."
-msgstr "le boussole pointe vers le nord ouest."
+msgstr "la brújula apunta al noroeste."
 
 #: ../../script/localization.js:12
 msgid "the compass points southeast."
-msgstr "la boussole pointe vers le sud est"
+msgstr "la brújula apunta al sureste."
 
 #: ../../script/localization.js:12
 msgid "the compass points southwest."
-msgstr "la boussole pointe vers le sud ouest."
+msgstr "la brújula apunta al suroeste."
 
 #: ../../script/localization.js:17
 msgid "stores"
-msgstr "entrepôt"
+msgstr "almacén"
 
 #: ../../script/localization.js:18
 msgid "weapons"
-msgstr "armes"
+msgstr "armas"
 
 #: ../../script/localization.js:19
 msgid "build:"
-msgstr "construire:"
+msgstr "construir:"
 
 #: ../../script/localization.js:20
 msgid "craft:"
-msgstr "fabriquer:"
+msgstr "fabricar:"
 
 #: ../../script/localization.js:21
 msgid "buy:"
-msgstr "acheter:"
+msgstr "comprar:"
 
 #: ../../script/localization.js:22
 msgid "supplies:"
-msgstr "équipement:"
+msgstr "suministros:"
 
 #: ../../script/localization.js:23
 msgid "perks:"
-msgstr "avantages:"
+msgstr "ventajas:"
 
 #: ../../script/localization.js:24
 msgid "take:"
-msgstr "prendre:"
+msgstr "tomar:"
 
 #: ../../script/localization.js:25
 msgid "forest"
-msgstr "foret"
+msgstr "bosque"
 
 #: ../../script/path.js:29 ../../script/path.js:295
 msgid "A Dusty Path"
-msgstr "Un chemin poussiéreux"
+msgstr "Un Camino Polvoriento"
 
 #: ../../script/path.js:43
 msgid "embark"
-msgstr "partir"
+msgstr "embarcar"
 
 #: ../../script/path.js:60
 msgid "the compass points "
-msgstr "la boussole montre :"
+msgstr "la brújula apunta"
 
 #: ../../script/path.js:132
 msgid "none"
-msgstr "aucune"
+msgstr "ninguno"
 
 #: ../../script/path.js:142
 msgid "armour"
-msgstr "armure"
+msgstr "armadura"
 
 #: ../../script/path.js:153
 msgid "water"
-msgstr "eau"
+msgstr "agua"
 
 #: ../../script/path.js:229 ../../script/world.js:284
 msgid "free {0}/{1}"
@@ -954,7 +947,7 @@ msgstr "libre {0}/{1}"
 
 #: ../../script/path.js:253
 msgid "weight"
-msgstr "poids"
+msgstr "peso"
 
 #: ../../script/path.js:255
 msgid "available"
@@ -962,156 +955,155 @@ msgstr "disponible"
 
 #: ../../script/ship.js:11
 msgid "Ship"
-msgstr "Vaisseau"
+msgstr "Nave"
 
 #: ../../script/ship.js:27
 msgid "An Old Starship"
-msgstr "Un ancien vaisseau spatial"
+msgstr "Una Antigua Nave Estelar"
 
 #: ../../script/ship.js:38
 msgid "hull:"
-msgstr "bouclier:"
+msgstr "cubierta:"
 
 #: ../../script/ship.js:44
 msgid "engine:"
-msgstr "moteur:"
+msgstr "motor:"
 
 #: ../../script/ship.js:51
 msgid "reinforce hull"
-msgstr "renforcer les bouclier"
+msgstr "reforzar cubierta"
 
 #: ../../script/ship.js:60
 msgid "upgrade engine"
-msgstr "améliorer le moteur"
+msgstr "mejorar motor"
 
 #: ../../script/ship.js:69 ../../script/ship.js:142
 msgid "lift off"
-msgstr "décoller"
+msgstr "elevarse"
 
 #: ../../script/ship.js:91
 msgid ""
 "somewhere above the debris cloud, the wanderer fleet hovers. been on this "
 "rock too long."
 msgstr ""
-"quelque part au dessus du nuage de débris s'en va le vaisseau du vagabond. "
-"Assez de temps passé sur ce morceau de caillou."
+"por encima de la nube de escombros, se encuentra la flota del vagabundo. "
+"mucho tiempo ha pasado en esta roca."
 
 #: ../../script/ship.js:106 ../../script/ship.js:119
 msgid "not enough alien alloy"
-msgstr "pas assez de carburant extra-terrestre"
+msgstr "no hay suficiente aleación alienígena"
 
 #: ../../script/ship.js:134
 msgid "Ready to Leave?"
-msgstr "Prêt à partir ?"
+msgstr "¿Listo para partir?"
 
 #: ../../script/ship.js:138
 msgid "time to get out of this place. won't be coming back."
-msgstr ""
-"c'est l'heure de quitter cet endroit. il n'y aura pas de retour en arrière."
+msgstr "es hora de salir de este lugar. no regresaré."
 
 #: ../../script/ship.js:150
 msgid "linger"
-msgstr "s'attarder"
+msgstr "quedarse"
 
 #: ../../script/world.js:46
 msgid "punch"
-msgstr "coup de poing"
+msgstr "golpear"
 
 #: ../../script/world.js:52
 msgid "stab"
-msgstr "coup de lance"
+msgstr "apuñalar"
 
 #: ../../script/world.js:58
 msgid "swing"
-msgstr "coup d'épée (fer)"
+msgstr "espadear"
 
 #: ../../script/world.js:64
 msgid "slash"
-msgstr "coup d'épée (acier)"
+msgstr "cuchillar"
 
 #: ../../script/world.js:70
 msgid "thrust"
-msgstr "baïonnette"
+msgstr "empujar"
 
 #: ../../script/world.js:76
 msgid "shoot"
-msgstr "tirer (fusil)"
+msgstr "disparar"
 
 #: ../../script/world.js:83
 msgid "blast"
-msgstr "tirer (lazer)"
+msgstr "estallar"
 
 #: ../../script/world.js:90
 msgid "lob"
-msgstr "lancer grenade"
+msgstr "lanzar granada"
 
 #: ../../script/world.js:97
 msgid "tangle"
-msgstr "bola"
+msgstr "enredar"
 
 #: ../../script/world.js:119
 msgid "An&nbsp;Outpost"
-msgstr "Un&nbsp;avant&nbsp;poste"
+msgstr "Un&nbsp;puesto&nbsp;Avanzado"
 
 #: ../../script/world.js:120
 msgid "Iron&nbsp;Mine"
-msgstr "Mine&nbsp:de&nbsp;fer"
+msgstr "Mina&nbsp:de&nbsp;Hierro"
 
 #: ../../script/world.js:121
 msgid "Coal&nbsp;Mine"
-msgstr "Mine&nbsp;de&nbsp;charbon"
+msgstr "Mina&nbsp;de&nbsp;Carbón"
 
 #: ../../script/world.js:122
 msgid "Sulphur&nbsp;Mine"
-msgstr "Mine&nbsp;de&nbsp;souffre"
+msgstr "Mina&nbsp;de&nbsp;Sulfuro"
 
 #: ../../script/world.js:123
 msgid "An&nbsp;Old&nbsp;House"
-msgstr "Une&nbsp;vieille&nbsp;maison"
+msgstr "Una&nbsp;Casa&nbsp;Vieja"
 
 #: ../../script/world.js:124
 msgid "A&nbsp;Damp&nbsp;Cave"
-msgstr "Une&nbsp;cave&nbsp;humide"
+msgstr "Una&nbsp;Cueva&nbsp;Húmeda"
 
 #: ../../script/world.js:125
 msgid "An&nbsp;Abandoned&nbsp;Town"
-msgstr "Une&nbsp;ville&nbsp;abandonnée"
+msgstr "Una&nbsp;Aldea&nbsp;Abandonada"
 
 #: ../../script/world.js:126
 msgid "A&nbsp;Ruined&nbsp;City"
-msgstr "Une&nbsp;ville&nbsp;en&nbsp;ruine"
+msgstr "Una&nbsp;Ciudad&nbsp;en&nbsp;Ruinas"
 
 #: ../../script/world.js:127
 msgid "A&nbsp;Crashed&nbsp;Starship"
-msgstr "Un&nbsp;vaisseau&nbsp;spatial&nbsp;écrasé"
+msgstr "Una&nbsp;Nave&nbsp;Espacial&nbsp;Estrellada"
 
 #: ../../script/world.js:128
 msgid "A&nbsp;Borehole"
-msgstr "Un&nbsp;forage"
+msgstr "Un&nbsp;Pozo"
 
 #: ../../script/world.js:129
 msgid "A&nbsp;Battlefield"
-msgstr "Un&nbsp;champ&nbsp;de&nbsp;bataille"
+msgstr "Un&nbsp;Campo&nbsp;de&nbsp;Batalla"
 
 #: ../../script/world.js:130
 msgid "A&nbsp;Murky&nbsp;Swamp"
-msgstr "Un&nbsp;marais&nbsp;boueux"
+msgstr "Un&nbsp;Pantano&nbsp;Turbio"
 
 #: ../../script/world.js:134
 msgid "A&nbsp;Destroyed&nbsp;Village"
-msgstr "Un&nbsp;village&nbsp;détruit"
+msgstr "Una&nbsp;Aldea&nbsp;Destruída"
 
 #: ../../script/world.js:250
 msgid "water:{0}"
-msgstr "eau:{0}"
+msgstr "agua:{0}"
 
 #: ../../script/world.js:277
 msgid "pockets"
-msgstr "poches"
+msgstr "bolsillos"
 
 #: ../../script/world.js:301
 msgid "hp: {0}/{1}"
-msgstr "vie: {0}/{1}"
+msgstr "vida: {0}/{1}"
 
 #: ../../script/world.js:308
 msgid "{0}:{1}"
@@ -1119,263 +1111,261 @@ msgstr "{0}:{1}"
 
 #: ../../script/world.js:343
 msgid "dangerous to be this far from the village without proper protection"
-msgstr ""
-"c'est dangereux de s'éloigner autant du village sans une bonne protection."
+msgstr "es peligroso estar tan lejos de la aldea sin una protección apropiada"
 
 #: ../../script/world.js:345
 msgid "safer here"
-msgstr "c'est plus sûr ici"
+msgstr "es más seguro aquí"
 
 #: ../../script/world.js:445
 msgid "the meat has run out"
-msgstr "il n'y a plus de viande"
+msgstr "la carne se ha terminado"
 
 #: ../../script/world.js:450
 msgid "starvation sets in"
-msgstr "la famine s'installe"
+msgstr "inanición inminente"
 
 #: ../../script/world.js:475
 msgid "there is no more water"
-msgstr "il n'y a plus d'eau"
+msgstr "no hay más agua"
 
 #: ../../script/world.js:479
 msgid "the thirst becomes unbearable"
-msgstr "la soif devient insupportable"
+msgstr "la sed se vuelve insoportable"
 
 #: ../../script/world.js:552
 msgid "the trees yield to dry grass. the yellowed brush rustles in the wind."
 msgstr ""
-"quelques arbres entourés d'herbes sèches et jauni, bruissant sous le vent"
+"los árboles están rodeados de pasto seco. los arbustos amarillentos se "
+"mueven con el viento."
 
 #: ../../script/world.js:555
 msgid ""
 "the trees are gone. parched earth and blowing dust are poor replacements."
 msgstr ""
-"il n'y a plus d'arbre. la terre desséchée et l'air emplis de poussière ne "
-"compensent pas leurs disparitions."
+"no hay más árboles. el paisaje fue reemplazado pobremente por tierra reseca "
+"y polvo en el aire."
 
 #: ../../script/world.js:562
 msgid ""
 "trees loom on the horizon. grasses gradually yield to a forest floor of dry "
 "branches and fallen leaves."
 msgstr ""
-"des arbres se dessinent à l'horizon. l'herbe disparaît peu à peu au profit "
-"d'une foret dont le sol est recouvert de feuilles mortes."
+"se ven árboles en el horizonte. el pasto se convierte gradualmente en el "
+"suelo del bosque, lleno de ramas y hojas que han caído."
 
 #: ../../script/world.js:565
 msgid "the grasses thin. soon, only dust remains."
-msgstr ""
-"l'herbe se raréfie. Il ne reste bientôt plus qu'une terre poussiéreuse."
+msgstr "el pasto va desapareciendo. pronto, sólo polvo quedará."
 
 #: ../../script/world.js:572
 msgid "the barrens break at a sea of dying grass, swaying in the arid breeze."
 msgstr ""
-"la lande s'arrete au profit d'une herbe morte parcourue par une brise sèche."
+"los páramos se rompen en un océano de pasto moribundo, moviéndose en la "
+"brisa árida."
 
 #: ../../script/world.js:575
 msgid ""
 "a wall of gnarled trees rises from the dust. their branches twist into a "
 "skeletal canopy overhead."
 msgstr ""
-"un mur d'arbres noueaux sorte de la poussière. leurs branches se tordant "
-"pour former une canopé squelettique."
+"un muro de árboles retorcidos se levanta desde el suelo. sus ramas se "
+"tuercen en un pabellón a lo alto."
 
 #: ../../script/world.js:777
 msgid "Wanderer"
-msgstr "Vagabond"
+msgstr "Vagabundo"
 
 #: ../../script/world.js:782
 msgid "The&nbsp;Village"
-msgstr "Le&nbsp;village"
+msgstr "La&nbsp;Aldea"
 
 #: ../../script/world.js:811
 msgid "the world fades"
-msgstr "le monde s’efface"
+msgstr "el mundo se desvanece"
 
 #: ../../script/world.js:912 ../../script/events/setpieces.js:2851
 msgid "water replenished"
-msgstr "plein d'eau fait."
+msgstr "agua repuesta"
 
 #: ../../script/world.js:939
 msgid "A Barren World"
-msgstr "Un monde stérile"
+msgstr "Un Mundo Estéril"
 
 #: ../../script/outside.js:5
 msgid "Outside"
-msgstr "Dehors"
+msgstr "Afuera"
 
 #: ../../script/outside.js:100
 msgid "scraps of fur"
-msgstr "des morceaux de fourrure"
+msgstr "trozos de pelaje"
 
 #: ../../script/outside.js:105
 msgid "bits of meat"
-msgstr "des morceaux de viande"
+msgstr "pedazos de carne"
 
 #: ../../script/outside.js:110
 msgid "strange scales"
-msgstr "des écailles étranges"
+msgstr "escamas extrañas"
 
 #: ../../script/outside.js:115
 msgid "scattered teeth"
-msgstr "des dents"
+msgstr "dientes dispersos"
 
 #: ../../script/outside.js:120
 msgid "tattered cloth"
-msgstr "un tas de chiffons"
+msgstr "tela andrajosa"
 
 #: ../../script/outside.js:125
 msgid "a crudely made charm"
-msgstr "un charme rudimentaire"
+msgstr "un talismán toscamente hecho"
 
 #: ../../script/outside.js:141 ../../script/outside.js:529
 msgid "A Silent Forest"
-msgstr "Une forêt silencieuse"
+msgstr "Un Bosque Silencioso"
 
 #: ../../script/outside.js:166
 msgid "gather wood"
-msgstr "ramasser du bois"
+msgstr "recoger madera"
 
 #: ../../script/outside.js:183
 msgid "a stranger arrives in the night"
-msgstr "un étranger arrive durant la nuit"
+msgstr "un forastero llega durante la noche"
 
 #: ../../script/outside.js:185
 msgid "a weathered family takes up in one of the huts."
-msgstr "une famille épuisée s'intalle dans une cabane."
+msgstr "una familia sobreviviente se establece en una de las cabañas."
 
 #: ../../script/outside.js:187
 msgid "a small group arrives, all dust and bones."
-msgstr "un petit groupe arrive, sale et affamé."
+msgstr "un pequeño grupo llega, puro polvo y huesos."
 
 #: ../../script/outside.js:189
 msgid "a convoy lurches in, equal parts worry and hope."
-msgstr "un convoi arrive, plein de crainte et d'éspoir."
+msgstr "un grupo se acerca tambaleando, lleno de preocupación y esperanza."
 
 #: ../../script/outside.js:191
 msgid "the town's booming. word does get around."
-msgstr "la ville s'agrandie, le mot se passe."
+msgstr "la aldea es próspera. se corre la voz."
 
 #: ../../script/outside.js:510
 msgid "check traps"
-msgstr "vérifier les pièges"
+msgstr "verificar trampas"
 
 #: ../../script/outside.js:531
 msgid "A Lonely Hut"
-msgstr "Une cabane solitaire"
+msgstr "Una Cabaña Solitaria"
 
 #: ../../script/outside.js:533
 msgid "A Tiny Village"
-msgstr "Un petit village"
+msgstr "Una Pequeña Aldea"
 
 #: ../../script/outside.js:535
 msgid "A Modest Village"
-msgstr "Un village"
+msgstr "Una Aldea Modesta"
 
 #: ../../script/outside.js:537
 msgid "A Large Village"
-msgstr "Un grand village"
+msgstr "Una Gran Aldea"
 
 #: ../../script/outside.js:539
 msgid "A Raucous Village"
-msgstr "Un village bruyant"
+msgstr "Una Aldea Estridente"
 
 #: ../../script/outside.js:551
 msgid "the sky is grey and the wind blows relentlessly"
-msgstr "le ciel est gris et le vents souffle implacablement"
+msgstr "el cielo está gris y el viento sopla sin piedad"
 
 #: ../../script/outside.js:561
 msgid "dry brush and dead branches litter the forest floor"
-msgstr "des buissons secs et des branches mortes recouvrent le sol de la forêt"
+msgstr "arbustos secos y ramas muertas adornan el suelo del bosque"
 
 #: ../../script/outside.js:587
 msgid "the traps contain "
-msgstr "les pièges contiennent "
+msgstr "las trampas tienen "
 
 #: ../../script/outside.js:592
 msgid " and "
-msgstr " et "
+msgstr " y "
 
 #: ../../script/space.js:42
 msgid "hull: "
-msgstr "bouclier:"
+msgstr "cáscara: "
 
 #: ../../script/space.js:76
 msgid "Troposphere"
-msgstr "Troposphère"
+msgstr "Tropósfera "
 
 #: ../../script/space.js:78
 msgid "Stratosphere"
-msgstr "Stratosphère"
+msgstr "Estratósfera "
 
 #: ../../script/space.js:80
 msgid "Mesosphere"
-msgstr "Mésosphère"
+msgstr "Mesósfera "
 
 #: ../../script/space.js:82
 msgid "Thermosphere"
-msgstr "Thermosphère"
+msgstr "Termósfera "
 
 #: ../../script/space.js:84
 msgid "Exosphere"
-msgstr "Exosphère"
+msgstr "Exósfera "
 
 #: ../../script/space.js:86
 msgid "Space"
-msgstr "L'Éspace"
+msgstr "Espacio"
 
 #: ../../script/space.js:421
 msgid "score for this game: {0}"
-msgstr "score de la partie: {0}"
+msgstr "puntuación de este juego: {0}"
 
 #: ../../script/space.js:428
 msgid "total score: {0}"
-msgstr "score total: {0}"
+msgstr "puntuación total: {0}"
 
 #: ../../script/events/room.js:6
 msgid "The Nomad"
-msgstr "Le nomade"
+msgstr "El Nómada"
 
 #: ../../script/events/room.js:13
 msgid ""
 "a nomad shuffles into view, laden with makeshift bags bound with rough twine."
 msgstr ""
-"un nomade apparaît, chargé d'un sac de fortune fermé avec une corde "
-"rudimentaire."
+"un nómada aparece a la vista, cargado con bolsas improvisadas amarradas con "
+"una cuerda áspera."
 
 #: ../../script/events/room.js:14
 msgid "won't say from where he came, but it's clear that he's not staying."
-msgstr "il ne dit pas d'où il vient, mais il est clair qu'il ne restera pas."
+msgstr "no dirá de dónde viene, pero es claro que no se quedará."
 
 #: ../../script/events/room.js:16
 msgid "a nomad arrives, looking to trade"
-msgstr "un nomade arrive, prêt à faire du troc"
+msgstr "llega un nómada, buscando comerciar"
 
 #: ../../script/events/room.js:19
 msgid "buy scales"
-msgstr "acheter des écailles"
+msgstr "comprar escamas"
 
 #: ../../script/events/room.js:24
 msgid "buy teeth"
-msgstr "acheter des dents"
+msgstr "comprar dientes"
 
 #: ../../script/events/room.js:29
 msgid "buy bait"
-msgstr "acheter des appâts"
+msgstr "comprar carnada"
 
 #: ../../script/events/room.js:32
 msgid "traps are more effective with bait."
-msgstr "les pièges sont plus efficace avec des appâts"
+msgstr "las trampas son más eficientes con carnada."
 
 #: ../../script/events/room.js:38
 msgid "buy compass"
-msgstr "acheter une boussole"
+msgstr "comprar brújula"
 
 #: ../../script/events/room.js:41
 msgid "the old compass is dented and dusty, but it looks to work."
-msgstr ""
-"la vieille boussole est abîmée et rouillée, mais elle semble encore "
-"fonctionner"
+msgstr "la vieja brújula está abollada y sucia, pero parece funcionar."
 
 #: ../../script/events/room.js:45 ../../script/events/room.js:223
 #: ../../script/events/room.js:236 ../../script/events/room.js:249
@@ -1385,399 +1375,394 @@ msgstr ""
 #: ../../script/events/room.js:559 ../../script/events/room.js:575
 #: ../../script/events/room.js:586
 msgid "say goodbye"
-msgstr "dire au revoir"
+msgstr "decir adiós"
 
 #: ../../script/events/room.js:52 ../../script/events/room.js:102
 msgid "Noises"
-msgstr "Bruits"
+msgstr "Ruidos "
 
 #: ../../script/events/room.js:59
 msgid "through the walls, shuffling noises can be heard."
-msgstr "a travers le murs, on peut entendre quelques bruits étouffés "
+msgstr "a través de las paredes, se escuchan ruidos."
 
 #: ../../script/events/room.js:60
 msgid "can't tell what they're up to."
-msgstr "impossible de comprendre ce qui se dit."
+msgstr "imposible deducir qué se traen."
 
 #: ../../script/events/room.js:62
 msgid "strange noises can be heard through the walls"
-msgstr "de l'autre coté du mur s'échappent des bruits étranges "
+msgstr "ruidos extraños se escuchan a través de las paredes"
 
 #: ../../script/events/room.js:65 ../../script/events/room.js:115
 #: ../../script/events/setpieces.js:1599
 msgid "investigate"
-msgstr "enquêter"
+msgstr "investigar"
 
 #: ../../script/events/room.js:69 ../../script/events/room.js:119
 #: ../../script/events/outside.js:29
 msgid "ignore them"
-msgstr "les ignorer"
+msgstr "ignorar"
 
 #: ../../script/events/room.js:76
 msgid "vague shapes move, just out of sight."
-msgstr "une forme indistincte s'éloigne dans l'ombre."
+msgstr "se mueven unas sombras sin forma, fuera de la vista."
 
 #: ../../script/events/room.js:77
 msgid "the sounds stop."
-msgstr "le bruit s’arrête."
+msgstr "los sonidos se detienen."
 
 #: ../../script/events/room.js:81 ../../script/events/room.js:94
 msgid "go back inside"
-msgstr "rentrer à l’intérieur"
+msgstr "regresar adentro"
 
 #: ../../script/events/room.js:89
 msgid ""
 "a bundle of sticks lies just beyond the threshold, wrapped in coarse furs."
 msgstr ""
-"quelques brindilles enroulées d'une fourrure grossière sont posés sur le "
-"seuil de la porte."
+"un montón de ramas se encuentran junto al umbral, envueltas en pelajes "
+"gruesos."
 
 #: ../../script/events/room.js:90
 msgid "the night is silent."
-msgstr "la nuit est silencieuse."
+msgstr "la noche es silenciosa."
 
 #: ../../script/events/room.js:109
 msgid "scratching noises can be heard from the store room."
-msgstr "des grattements semblent provenir de l'entrepôt."
+msgstr "se escuchan chirridos desde el almacén."
 
 #: ../../script/events/room.js:110
 msgid "something's in there."
-msgstr "il y'a quelque chose à l’intérieur."
+msgstr "hay algo ahí."
 
 #: ../../script/events/room.js:112
 msgid "something's in the store room"
-msgstr "il y'a quelque chose dans l'entrepôt"
+msgstr "hay algo en el almacén"
 
 #: ../../script/events/room.js:126 ../../script/events/room.js:146
 #: ../../script/events/room.js:166
 msgid "some wood is missing."
-msgstr "du bois a disparu."
+msgstr "ha desaparecido algo de madera."
 
 #: ../../script/events/room.js:127
 msgid "the ground is littered with small scales"
-msgstr "le sol est jonché de petites écailles"
+msgstr "el piso está lleno de pequeñas escamas"
 
 #: ../../script/events/room.js:147
 msgid "the ground is littered with small teeth"
-msgstr "le sol est jonché de petites dents"
+msgstr "el piso está lleno de pequeños dientes"
 
 #: ../../script/events/room.js:167
 msgid "the ground is littered with scraps of cloth"
-msgstr "des chiffons sont éparpillés au sol"
+msgstr "el piso está lleno de retazos de tela"
 
 #: ../../script/events/room.js:187
 msgid "The Beggar"
-msgstr "Le mendiant"
+msgstr "El Mendigo"
 
 #: ../../script/events/room.js:194
 msgid "a beggar arrives."
-msgstr "un mendiant arrive."
+msgstr "llega un mendigo."
 
 #: ../../script/events/room.js:195
 msgid "asks for any spare furs to keep him warm at night."
-msgstr "il demande quelques morceaux de fourrure pour lui tenir chaud la nuit."
+msgstr "pide pelaje que sobre para mantenerlo cálido en las noches."
 
 #: ../../script/events/room.js:197
 msgid "a beggar arrives"
-msgstr "un mendiant arrive"
+msgstr "llega un mendigo"
 
 #: ../../script/events/room.js:200
 msgid "give 50"
-msgstr "donner 50"
+msgstr "dar 50 "
 
 #: ../../script/events/room.js:205 ../../script/events/room.js:271
 #: ../../script/events/room.js:341
 msgid "give 100"
-msgstr "donner 100"
+msgstr "dar 100 "
 
 #: ../../script/events/room.js:210 ../../script/events/room.js:281
 #: ../../script/events/room.js:458
 msgid "turn him away"
-msgstr "le renvoyer"
+msgstr "rechazarlo"
 
 #: ../../script/events/room.js:218 ../../script/events/room.js:231
 #: ../../script/events/room.js:244
 msgid "the beggar expresses his thanks."
-msgstr "le mendiant vous remercie chaleureusement."
+msgstr "el mendigo expresa sus gracias."
 
 #: ../../script/events/room.js:219
 msgid "leaves a pile of small scales behind."
-msgstr "il laisse une pile de petites écailles derrière lui."
+msgstr "deja a su paso una pila de pequeñas escamas."
 
 #: ../../script/events/room.js:232
 msgid "leaves a pile of small teeth behind."
-msgstr "il laisse une pile de petites dents derrière lui."
+msgstr "deja a su paso una pila de pequeños dientes."
 
 #: ../../script/events/room.js:245
 msgid "leaves some scraps of cloth behind."
-msgstr "il laisse quelques vieux chiffons derrière lui."
+msgstr "deja a su paso unos retazos de tela."
 
 #: ../../script/events/room.js:258 ../../script/events/room.js:328
 msgid "The Mysterious Wanderer"
-msgstr "Le mystérieux vagabond"
+msgstr "El Vagabundo Misterioso"
 
 #: ../../script/events/room.js:265
 msgid ""
 "a wanderer arrives with an empty cart. says if he leaves with wood, he'll be "
 "back with more."
 msgstr ""
-"un vagabond arrive avec une charrette vide. il dit que s'il peut emmener du "
-"bois, il en ramènera encore plus."
+"un vagabundo llega con un carro vacío. dice que si se va con madera, volverá "
+"con más."
 
 #: ../../script/events/room.js:266
 msgid "builder's not sure he's to be trusted."
-msgstr "l'ouvrière ne lui fait pas confiance."
+msgstr "el manitas no está segura de que se pueda confiar en él."
 
 #: ../../script/events/room.js:268 ../../script/events/room.js:338
 msgid "a mysterious wanderer arrives"
-msgstr "un mystérieux vagabond arrive"
+msgstr "un vagabundo misterioso llega"
 
 #: ../../script/events/room.js:276 ../../script/events/room.js:346
 msgid "give 500"
-msgstr "en donner 500"
+msgstr "dar 500"
 
 #: ../../script/events/room.js:288 ../../script/events/room.js:307
 msgid "the wanderer leaves, cart loaded with wood"
-msgstr "le vagabond s'en va, la charrette chargée de bois"
+msgstr "el vagabundo se retira, su carro lleno de madera"
 
 #: ../../script/events/room.js:294 ../../script/events/room.js:313
 msgid "the mysterious wanderer returns, cart piled high with wood."
-msgstr "le mystérieux vagabond reviens, la charrette débordante de bois."
+msgstr "el misterioso vagabundo regresa, su carro muy lleno con madera."
 
 #: ../../script/events/room.js:335
 msgid ""
 "a wanderer arrives with an empty cart. says if she leaves with furs, she'll "
 "be back with more."
 msgstr ""
-"une vagabonde arrive avec une charrette vide. elle dit que si elle peut "
-"emmener des fourrures, elle en ramènera encore plus."
+"una vagabunda llega con un carro vacío. dice que si se va con pelajes, "
+"volverá con más."
 
 #: ../../script/events/room.js:336
 msgid "builder's not sure she's to be trusted."
-msgstr "l'ouvrière ne lui fait pas confiance."
+msgstr "el manitas no está segura de que se pueda confiar en ella."
 
 #: ../../script/events/room.js:351
 msgid "turn her away"
-msgstr "la renvoyer"
+msgstr "rechazarla"
 
 #: ../../script/events/room.js:358 ../../script/events/room.js:377
 msgid "the wanderer leaves, cart loaded with furs"
-msgstr "la vagabonde s'en va, la charrette chargée de fourrure"
+msgstr "la vagabunda se retira, su carro lleno de pelaje"
 
 #: ../../script/events/room.js:364 ../../script/events/room.js:383
 msgid "the mysterious wanderer returns, cart piled high with furs."
-msgstr ""
-"la mystérieuse vagabonde revient, la charrette débordante de fourrures."
+msgstr "la misteriosa vagabunda regresa, su carro muy lleno con pelaje."
 
 #: ../../script/events/room.js:398
 msgid "The Scout"
-msgstr "L'éclaireur"
+msgstr "El Explorador"
 
 #: ../../script/events/room.js:405
 msgid "the scout says she's been all over."
-msgstr "l'éclaireuse dit qu'elle a été partout."
+msgstr "la exploradora dice que ha recorrido todo."
 
 #: ../../script/events/room.js:406
 msgid "willing to talk about it, for a price."
-msgstr "Elle veut bien en parler, mais ça a un prix."
+msgstr "dispuesta a hablar de eso, por un precio."
 
 #: ../../script/events/room.js:408
 msgid "a scout stops for the night"
-msgstr "une éclaireuse s’arrête pour la nuit"
+msgstr "la exploradora se establece por la noche"
 
 #: ../../script/events/room.js:411
 msgid "buy map"
-msgstr "acheter une carte"
+msgstr "comprar mapa"
 
 #: ../../script/events/room.js:413
 msgid "the map uncovers a bit of the world"
-msgstr "la carte dévoile un petit morceau du monde"
+msgstr "el mapa descubre un poco del mundo"
 
 #: ../../script/events/room.js:417
 msgid "learn scouting"
-msgstr "apprendre la reconnaissance"
+msgstr "aprender a explorar"
 
 #: ../../script/events/room.js:436
 msgid "The Master"
-msgstr "Le maître"
+msgstr "El Maestro"
 
 #: ../../script/events/room.js:443
 msgid "an old wanderer arrives."
-msgstr "un vieux vagabond arrive."
+msgstr "un viejo vagabundo llega."
 
 #: ../../script/events/room.js:444
 msgid "he smiles warmly and asks for lodgings for the night."
-msgstr "il souri chaleureusement et demande un abri pour la nuit."
+msgstr "sonríe cálidamente y pide alojamiento durante la noche."
 
 #: ../../script/events/room.js:446
 msgid "an old wanderer arrives"
-msgstr "un vieux vagabond arrive"
+msgstr "un viejo vagabundo llega"
 
 #: ../../script/events/room.js:449
 msgid "agree"
-msgstr "accepter"
+msgstr "aceptar"
 
 #: ../../script/events/room.js:465
 msgid "in exchange, the wanderer offers his wisdom."
-msgstr "en échange, il offrira un peu de sa sagesse."
+msgstr "a cambio, el vagabundo ofrece su sabiduría."
 
 #: ../../script/events/room.js:469
 msgid "evasion"
-msgstr "esquive"
+msgstr "evasión"
 
 #: ../../script/events/room.js:479
 msgid "precision"
-msgstr "précision"
+msgstr "precisión"
 
 #: ../../script/events/room.js:489
 msgid "force"
-msgstr "force"
+msgstr "fuerza"
 
 #: ../../script/events/room.js:499
 msgid "nothing"
-msgstr "rien"
+msgstr "nada"
 
 #: ../../script/events/room.js:508
 msgid "The Sick Man"
-msgstr "Le malade"
+msgstr "El Hombre Enfermo"
 
 #: ../../script/events/room.js:515
 msgid "a man hobbles up, coughing."
-msgstr "un homme arrive. boitillant et toussant."
+msgstr "llega un hombre, tosiendo."
 
 #: ../../script/events/room.js:516
 msgid "he begs for medicine."
-msgstr "il supplie pour quelques médicaments."
+msgstr "ruega por medicamento."
 
 #: ../../script/events/room.js:518
 msgid "a sick man hobbles up"
-msgstr "un homme arrive, boitillant"
+msgstr "llega un hombre enfermo"
 
 #: ../../script/events/room.js:521
 msgid "give 1 medicine"
-msgstr "donner 1 médicament"
+msgstr "dar 1 medicamento"
 
 #: ../../script/events/room.js:523
 msgid "the man swallows the medicine eagerly"
-msgstr "l'homme avale le médicament avidement"
+msgstr "el hombre toma la medicina ansiosamente"
 
 #: ../../script/events/room.js:527
 msgid "tell him to leave"
-msgstr "lui dire de partir"
+msgstr "pedirle que se retire"
 
 #: ../../script/events/room.js:534 ../../script/events/room.js:550
 #: ../../script/events/room.js:566
 msgid "the man is thankful."
-msgstr "l'homme est reconnaissant."
+msgstr "el hombre está agradecido."
 
 #: ../../script/events/room.js:535 ../../script/events/room.js:551
 #: ../../script/events/room.js:567
 msgid "he leaves a reward."
-msgstr "il laisse une récompense."
+msgstr "deja una recompensa."
 
 #: ../../script/events/room.js:536
 msgid "some weird metal he picked up on his travels."
-msgstr "un métal étrange qu'il a ramassé durant ses voyages."
+msgstr "un metal extraño que recogió en sus viajes."
 
 #: ../../script/events/room.js:552
 msgid "some weird glowing boxes he picked up on his travels."
-msgstr "d'étrange boites lumineuses qu'il a ramassé durant ses voyages."
+msgstr "unas cajas brillantes raras que recogió en sus viajes."
 
 #: ../../script/events/room.js:568
 msgid "all he has are some scales."
-msgstr "quelques écailles, toutes ses possessions."
+msgstr "todo lo que tiene son escamas."
 
 #: ../../script/events/room.js:582
 msgid "the man expresses his thanks and hobbles off."
-msgstr "l'homme vous remercie et repart, boitillant."
+msgstr "el hombre expresa sus gracias y se retira."
 
 #: ../../script/events/setpieces.js:6
 msgid "An Outpost"
-msgstr "Un avant poste"
+msgstr "Un Puesto Avanzado"
 
 #: ../../script/events/setpieces.js:10 ../../script/events/setpieces.js:12
 msgid "a safe place in the wilds."
-msgstr "Un endroit sûr dans la nature."
+msgstr "un lugar seguro en lo salvaje."
 
 #: ../../script/events/setpieces.js:33
 msgid "A Murky Swamp"
-msgstr "Un marais boueux"
+msgstr "Un Pantano Turbio"
 
 #: ../../script/events/setpieces.js:37
 msgid "rotting reeds rise out of the swampy earth."
-msgstr "des racines pourrissantes ressortent des marécages."
+msgstr "cañas putrefactas se levantan de la tierra pantanosa."
 
 #: ../../script/events/setpieces.js:38
 msgid "a lone frog sits in the muck, silently."
-msgstr "une grenouille solitaire est assise dans la vase, silencieuse."
+msgstr "un sapo solitario se encuentra sentado en el estiércol, silencioso."
 
-# dur dur dur
 #: ../../script/events/setpieces.js:40
 msgid "a swamp festers in the stagnant air."
-msgstr "un marécage empeste."
+msgstr "un pantano se encuentra rodeado de aire estancado."
 
 #: ../../script/events/setpieces.js:43 ../../script/events/setpieces.js:530
 #: ../../script/events/setpieces.js:585 ../../script/events/setpieces.js:853
 #: ../../script/events/setpieces.js:1264 ../../script/events/setpieces.js:1282
 #: ../../script/events/setpieces.js:3408
 msgid "enter"
-msgstr "entrer"
+msgstr "entrar"
 
 #: ../../script/events/setpieces.js:54
 msgid "deep in the swamp is a moss-covered cabin."
-msgstr "au centre du marécage, une cabane recouverte de mousse."
+msgstr "en lo profundo del pantano se encuentra una cabaña cubierta de musgo."
 
 #: ../../script/events/setpieces.js:55
 msgid "an old wanderer sits inside, in a seeming trance."
-msgstr "à l'intérieur, un vieux vagabond est assis. il à l'air en trance."
+msgstr "un viejo vagabundo se encuentra dentro, en trance."
 
 #: ../../script/events/setpieces.js:60
 msgid "talk"
-msgstr "parler"
+msgstr "hablar"
 
 #: ../../script/events/setpieces.js:71
 msgid "the wanderer takes the charm and nods slowly."
-msgstr "le vagabond prend le charme et hoche lentement la tête."
+msgstr "el vagabundo toma el talismán y asiente lentamente."
 
 #: ../../script/events/setpieces.js:72
 msgid "he speaks of once leading the great fleets to fresh worlds."
-msgstr ""
-"il raconte qu'il fut un temps ou il menait la grande flotte en quête d'un "
-"monde meilleur."
+msgstr "habla de haber liderado grandes flotas a mundos nuevos."
 
-# :( :(
 #: ../../script/events/setpieces.js:73
 msgid "unfathomable destruction to fuel wanderer hungers."
-msgstr "mais il à échoué et la mené à sa perte."
+msgstr "destrucción incomprendible para alimentar las hambres de vagabundo."
 
 #: ../../script/events/setpieces.js:74
 msgid "his time here, now, is his penance."
-msgstr "sa présence ici est sa pénitence."
+msgstr "su tiempo aquí, ahora, es penitencia."
 
 #: ../../script/events/setpieces.js:90
 msgid "A Damp Cave"
-msgstr "Une grotte humide"
+msgstr "Una Cueva Húmeda"
 
 #: ../../script/events/setpieces.js:94
 msgid "the mouth of the cave is wide and dark."
-msgstr "l'entrée de la grotte est grande et sombre."
+msgstr "la entrada a la cueva es amplia y oscura."
 
 #: ../../script/events/setpieces.js:95
 msgid "can't see what's inside."
-msgstr "impossible de voir ce qu'il y'a à l'intérieur."
+msgstr "imposible ver qué hay dentro."
 
 #: ../../script/events/setpieces.js:97
 msgid "the earth here is split, as if bearing an ancient wound"
-msgstr "à cet endroit, la terre s'ouvre en deux, comme une ancienne blessure"
+msgstr "la tierra aquí está resquebrajada, como si cargara una herida antigua"
 
 #: ../../script/events/setpieces.js:100 ../../script/events/setpieces.js:2834
 #: ../../script/events/setpieces.js:3333
 msgid "go inside"
-msgstr "entrer"
+msgstr "ir adentro"
 
 #: ../../script/events/setpieces.js:119 ../../script/events/setpieces.js:257
 msgid "a startled beast defends its home"
-msgstr "Une bête effrayée défend son territoire"
+msgstr "una bestia asustada defiende su hogar"
 
 #: ../../script/events/setpieces.js:134 ../../script/events/setpieces.js:183
 #: ../../script/events/setpieces.js:222 ../../script/events/setpieces.js:239
@@ -1810,7 +1795,7 @@ msgstr "Une bête effrayée défend son territoire"
 #: ../../script/events/setpieces.js:3227 ../../script/events/setpieces.js:3259
 #: ../../script/events/setpieces.js:3296
 msgid "continue"
-msgstr "continuer"
+msgstr "continuar"
 
 #: ../../script/events/setpieces.js:138 ../../script/events/setpieces.js:154
 #: ../../script/events/setpieces.js:187 ../../script/events/setpieces.js:226
@@ -1819,115 +1804,120 @@ msgstr "continuer"
 #: ../../script/events/setpieces.js:372 ../../script/events/setpieces.js:413
 #: ../../script/events/setpieces.js:464 ../../script/events/setpieces.js:495
 msgid "leave cave"
-msgstr "sortir de la cave"
+msgstr "abandonar cueva"
 
 #: ../../script/events/setpieces.js:145
 msgid "the cave narrows a few feet in."
-msgstr "la grotte se rétrécit après quelques pas à l'intérieur."
+msgstr "la cueva se hace angosta unos pasos adelante."
 
 #: ../../script/events/setpieces.js:146
 msgid "the walls are moist and moss-covered"
-msgstr "les murs sont humides et recouverts de moisissures"
+msgstr "los muros están húmedos y cubiertos de musgo."
 
 #: ../../script/events/setpieces.js:150
 msgid "squeeze"
-msgstr "se serrer"
+msgstr "presionar"
 
 #: ../../script/events/setpieces.js:161
 msgid "the remains of an old camp sits just inside the cave."
-msgstr "a l'intérieur de la grotte, les restes d'un ancien campement."
+msgstr "los restos de un viejo campamento se encuentran a un lado de la cueva."
 
 #: ../../script/events/setpieces.js:162
 msgid "bedrolls, torn and blackened, lay beneath a thin layer of dust."
 msgstr ""
-"des sacs de couchage, déchirés et noircis, traînent sous une mince couche de "
-"poussière."
+"los sacos de dormir, destruídos y oscurecidos, se encuentran bajo una "
+"delgada capa de polvo."
 
 #: ../../script/events/setpieces.js:194
 msgid "the body of a wanderer lies in a small cavern."
-msgstr "le corps d'un vagabond repose dans une petite caverne."
+msgstr "el cuerpo de un vagabundo se encuentra en una pequeña caverna."
 
 #: ../../script/events/setpieces.js:195
 msgid "rot's been to work on it, and some of the pieces are missing."
-msgstr "le corps est en pleine décomposition et il en manque une partie."
+msgstr ""
+"la putrefacción se ha encargado de él, y algunas de sus partes no se "
+"encuentran."
 
 #: ../../script/events/setpieces.js:196
 msgid "can't tell what left it here."
-msgstr "impossible de savoir ce qui à fait ça."
+msgstr "imposible descifrar qué lo trajo aquí."
 
 #: ../../script/events/setpieces.js:233
 msgid "the torch sputters and dies in the damp air"
-msgstr "la torche crépite une dernière fois et  s’éteint dans l'air humide."
+msgstr "la antorcha se agita y muere en el aire húmedo"
 
 #: ../../script/events/setpieces.js:234
 msgid "the darkness is absolute"
-msgstr "l’obscurité est complète"
+msgstr "la oscuridad es absoluta"
 
 #: ../../script/events/setpieces.js:236
 msgid "the torch goes out"
-msgstr "la torche s’éteint"
+msgstr "la antorcha se apaga"
 
 #: ../../script/events/setpieces.js:289
 msgid "a cave lizard attacks"
-msgstr "un lézard attaque"
+msgstr "un lagarto de cueva ataca"
 
 #: ../../script/events/setpieces.js:321
 msgid "a large beast charges out of the dark"
-msgstr "Une grande bête apparaît dans l'obscurité et charge"
+msgstr "una gran bestia ataca en la oscuridad"
 
 #: ../../script/events/setpieces.js:353
 msgid "a giant lizard shambles forward"
-msgstr "Un lézard gigantesque  se traîne vers vous"
+msgstr "un gran lagarto viene de frente"
 
 #: ../../script/events/setpieces.js:379
 msgid "the nest of a large animal lies at the back of the cave."
-msgstr "le nid d'un grand animal se trouve au fond de la cave."
+msgstr "el nido de un gran animal se encuentra al fondo de la cueva."
 
 #: ../../script/events/setpieces.js:420
 msgid "a small supply cache is hidden at the back of the cave."
-msgstr "une petite cachette à provision se trouve au fond de la cave."
+msgstr "un pequeño caché de provisiones está escondido al fondo de la cueva."
 
 #: ../../script/events/setpieces.js:471
 msgid "an old case is wedged behind a rock, covered in a thick layer of dust."
 msgstr ""
-"une vieille valise est posée contre un rocher. elle est recouverte d'une "
-"épaisse couche de poussière."
+"un viejo estuche está detrás de una roca, cubierto en una gruesa capa de "
+"polvo."
 
 #: ../../script/events/setpieces.js:503
 msgid "A Deserted Town"
-msgstr "Une ville déserte"
+msgstr "Una Ciudad Desierta"
 
 #: ../../script/events/setpieces.js:507
 msgid "a small suburb lays ahead, empty houses scorched and peeling."
-msgstr "devant, un petit lotissement. ses maisons brûlées ou effondrées."
+msgstr ""
+"un pequeño suburbio está adelante, casas vacías chamuscadas y "
+"resquebrajándose."
 
 #: ../../script/events/setpieces.js:508
 msgid ""
 "broken streetlights stand, rusting. light hasn't graced this place in a long "
 "time."
 msgstr ""
-"les réverbères sont cassés et rouillés. Cet endroit est désert depuis "
-"longtemps."
+"luces exteriores rotas permanecen, oxidándose. la luz no ha llegado a este "
+"lugar en mucho tiempo."
 
 #: ../../script/events/setpieces.js:510
 msgid "the town lies abandoned, its citizens long dead"
-msgstr "la ville est totalement abandonnée. ses citoyens mort depuis longtemps"
+msgstr ""
+"la ciudad se encuentra abandonada, sus ciudadanos muertos desde hace mucho"
 
 #: ../../script/events/setpieces.js:513 ../../script/events/setpieces.js:1201
 msgid "explore"
-msgstr "explorer"
+msgstr "explorar"
 
 #: ../../script/events/setpieces.js:525
 msgid ""
 "where the windows of the schoolhouse aren't shattered, they're blackened "
 "with soot."
 msgstr ""
-"les quelques fenêtres de l'école qui n'ont pas été brisées sont recouvertes "
-"de suie."
+"donde las ventanas de la escuela no están rotas, se encuentran ennegrecidas "
+"por el hollín."
 
 #: ../../script/events/setpieces.js:526
 msgid "the double doors creak endlessly in the wind."
-msgstr "le grincement des  doubles portes battantes est porté par le vent."
+msgstr "las puertas dobles crujen sin parar en el viento."
 
 #: ../../script/events/setpieces.js:535 ../../script/events/setpieces.js:573
 #: ../../script/events/setpieces.js:590 ../../script/events/setpieces.js:627
@@ -1941,191 +1931,190 @@ msgstr "le grincement des  doubles portes battantes est porté par le vent."
 #: ../../script/events/setpieces.js:1103 ../../script/events/setpieces.js:1146
 #: ../../script/events/setpieces.js:1167 ../../script/events/setpieces.js:1182
 msgid "leave town"
-msgstr "quitter la ville"
+msgstr "abandonar ciudad"
 
 #: ../../script/events/setpieces.js:566
 msgid "ambushed on the street."
-msgstr "une embuscade dans la rue."
+msgstr "emboscado en la calle."
 
 # ?
 #: ../../script/events/setpieces.js:580
 msgid "a squat building up ahead."
-msgstr "Unsquat en vue devant."
+msgstr "un edificio bajo adelante."
 
 #: ../../script/events/setpieces.js:581
 msgid "a green cross barely visible behind grimy windows."
-msgstr "une croix verte est a peine visible derrière des rideaux dépareillés."
+msgstr "una cruz verde a penas visible detrás de ventanas mugrientas."
 
 #: ../../script/events/setpieces.js:597
 msgid "a small cache of supplies is tucked inside a rusting locker."
-msgstr "quelques objets sont cachés dans un casier rouillé."
+msgstr "un pequeño caché de provisiones está dentro de un locker oxidado."
 
 #: ../../script/events/setpieces.js:657
 msgid "a scavenger waits just inside the door."
-msgstr "un pillard attend de l'autre coté de la porte."
+msgstr "un pepenador espera justo al pasar la puerta."
 
 #: ../../script/events/setpieces.js:689
 msgid "a beast stands alone in an overgrown park."
-msgstr "au milieu d'un parc se trouve une bête."
+msgstr "una bestia se encuentra sola en un parque lleno de maleza."
 
 #: ../../script/events/setpieces.js:703
 msgid "an overturned caravan is spread across the pockmarked street."
-msgstr "une caravane est renversée sur une route déjà bien abimée."
+msgstr "una caravana volcada se encuentra esparcida por la calle."
 
 #: ../../script/events/setpieces.js:704
 msgid ""
 "it's been picked over by scavengers, but there's still some things worth "
 "taking."
 msgstr ""
-"le batiment à été pillé, mais il reste quelques objets qui méritent d'être "
-"emmenés."
+"ha sido asaltada por pepenadores, pero aún hay cosas que vale la pena tomar."
 
 #: ../../script/events/setpieces.js:764
 msgid "a madman attacks, screeching."
-msgstr "un fou attaque un hurlant."
+msgstr "un hombre loco ataca, gritando."
 
 #: ../../script/events/setpieces.js:801
 msgid "a thug moves out of the shadows."
-msgstr "un voyou sort de l'ombre."
+msgstr "un matón sale desde las sombras."
 
 #: ../../script/events/setpieces.js:833
 msgid "a beast charges out of a ransacked classroom."
-msgstr "un bête sort d'une salle de classe saccagée et charge."
+msgstr "una bestia ataca desde un salón de clases saqueado."
 
 #: ../../script/events/setpieces.js:847
 msgid "through the large gymnasium doors, footsteps can be heard."
 msgstr ""
-"on peut entendre des bruits de pas à travers les grandes portes du gymnase."
+"a través de las grandes puertas del gimnasio, se pueden escuchar pasos."
 
 #: ../../script/events/setpieces.js:848
 msgid "the torchlight casts a flickering glow down the hallway."
-msgstr "la torche projete des ombres dansantes le long du couloir."
+msgstr "la antorcha emite un brillo parpadeante hacia el pasillo."
 
 #: ../../script/events/setpieces.js:849
 msgid "the footsteps stop."
-msgstr "les bruits de pas s'arrêtent."
+msgstr "los pasos se detienen."
 
 #: ../../script/events/setpieces.js:882
 msgid "another beast, draw by the noise, leaps out of a copse of trees."
-msgstr "une autre bête, attirée par le bruit, sort d'un arbre mort."
+msgstr ""
+"otra bestia, atraída por el sonido, brinca desde la copa de los árboles."
 
 #: ../../script/events/setpieces.js:896
 msgid "something's causing a commotion a ways down the road."
-msgstr "quelque chose s'agite en bas de la route."
+msgstr "algo causa conmoción por el camino."
 
 #: ../../script/events/setpieces.js:897
 msgid "a fight, maybe."
-msgstr "un combat, peut-être."
+msgstr "una pelea, tal vez."
 
 #: ../../script/events/setpieces.js:912
 msgid ""
 "a small basket of food is hidden under a park bench, with a note attached."
 msgstr ""
-"un petit panier de nourriture est caché sous un banc. il y'a une note dessus."
+"una pequeña canasta de alimentos se encuentra escondido bajo una banca en el "
+"parque, con una nota."
 
 #: ../../script/events/setpieces.js:913
 msgid "can't read the words."
-msgstr "impossibles de déchiffrer les mots."
+msgstr "imposible leer las palabras."
 
 #: ../../script/events/setpieces.js:958
 msgid "a panicked scavenger bursts through the door, screaming."
-msgstr "un pillard paniqué sort précipitament en hurlant."
+msgstr "un pepenador en pánico aparece a través de la puerta, gritando."
 
 #: ../../script/events/setpieces.js:995
 msgid "a man stands over a dead wanderer. notices he's not alone."
 msgstr ""
-"un homme se tien debout à coté du cadavre d'un vagabond. Il n'est pas seul."
+"un hombre se encuentra sobre un vagabundo muerto. se da cuenta de que no "
+"está solo."
 
 #: ../../script/events/setpieces.js:1009
 msgid "scavenger had a small camp in the school."
-msgstr "le vagabond avait installé un petit campement dans l'école."
+msgstr "el pepenador tenía un pequeño campamento en la escuela."
 
 #: ../../script/events/setpieces.js:1010
 msgid "collected scraps spread across the floor like they fell from heaven."
-msgstr ""
-"des petits tas de déchets sont éparpillés sur le sol, comme s'ils étaient "
-"tombés du ciel."
+msgstr "residuos repartidos por el suelo como si hubiesen caído del cielo."
 
 #: ../../script/events/setpieces.js:1051
 msgid "scavenger'd been looking for supplies in here, it seems."
-msgstr "le vagabond devait rechercher quelques provisisions ici."
+msgstr "el pepenador ha estado buscando provisiones aquí, parece."
 
 #: ../../script/events/setpieces.js:1052
 msgid "a shame to let what he'd found go to waste."
-msgstr "ce serait une honte de gacher ce qu'il avait trouvé."
+msgstr "un desperdicio dejar lo que encontró."
 
 #: ../../script/events/setpieces.js:1083
 msgid ""
 "beneath the wanderer's rags, clutched in one of its many hands, a glint of "
 "steel."
 msgstr ""
-"sous quelques chiffons du vagabond, serrée dans une main, un petit morceau "
-"d'acier."
+"bajo los harapos del vagabundo, empuñada en una de sus muchas manos, un "
+"destello de acero."
 
 #: ../../script/events/setpieces.js:1084
 msgid "worth killing for, it seems."
-msgstr "il semblerait que ce soit suffisant pour justifier un meurtre"
+msgstr "vale la pena matar por ello, parece."
 
 #: ../../script/events/setpieces.js:1110
 msgid "eye for an eye seems fair."
-msgstr "œil pour œil, dent pour dent, cela semble équitable."
+msgstr "ojo por ojo suena justo."
 
 #: ../../script/events/setpieces.js:1111
 msgid "always worked before, at least."
-msgstr "du moins, ça fonctionnait comme ça avant."
+msgstr "siempre trabajado antes, por lo menos."
 
 #: ../../script/events/setpieces.js:1112
 msgid "picking the bones finds some useful trinkets."
-msgstr ""
-"en fouillant dans les ossements, on trouve quelques babioles qui pourraient "
-"être utiles."
+msgstr "recoger los huesos encuentra talismanes útiles."
 
 #: ../../script/events/setpieces.js:1153
 msgid "some medicine abandoned in the drawers."
-msgstr "quelques médicaments ont été abandonnés dans les placards."
+msgstr "unos medicamentos abandonados en los cajones."
 
 #: ../../script/events/setpieces.js:1174
 msgid "the clinic has been ransacked."
-msgstr "la clinique à été saccagée"
+msgstr "la clínica ha sido saqueada."
 
 #: ../../script/events/setpieces.js:1175
 msgid "only dust and stains remain."
-msgstr "seul reste quelques marques ainsi qu'un peu de poussière."
+msgstr "sólo polvo y manchas permanecen."
 
 #: ../../script/events/setpieces.js:1190
 msgid "A Ruined City"
-msgstr "Une ville en ruine"
+msgstr "Una Ciudad En Ruinas"
 
 #: ../../script/events/setpieces.js:1194
 msgid ""
 "a battered highway sign stands guard at the entrance to this once-great city."
 msgstr ""
-"un panneau bosselé tien toujours à l'entrée de ce qui fut autrefois une "
-"grande ville."
+"un cartel maltratado de carretera hace guardia de la entrada a esta ciudad "
+"que una vez fue grande."
 
 #: ../../script/events/setpieces.js:1195
 msgid ""
 "the towers that haven't crumbled jut from the landscape like the ribcage of "
 "some ancient beast."
 msgstr ""
-"les tours qui ne se sont pas effondrées ressemblent à une cage thoracique "
-"d'une bête préhistorique."
+"las torres que no se han deshecho sobresalen del paisaje como la caja "
+"toráxica de una antigua bestia."
 
 #: ../../script/events/setpieces.js:1196
 msgid "might be things worth having still inside."
-msgstr "il y reste peut être des choses de valeurs à l'intérieur."
+msgstr "puede que haya cosas que valgan la pena dentro."
 
 #: ../../script/events/setpieces.js:1198
 msgid "the towers of a decaying city dominate the skyline"
-msgstr "les grattes ciels d'une ville sont visibles à l'horizon"
+msgstr "las torres de una ciudad en decadencia dominan el cielo"
 
 #: ../../script/events/setpieces.js:1212
 msgid "the streets are empty."
-msgstr "les rues sont vides."
+msgstr "las calles están vacías."
 
 #: ../../script/events/setpieces.js:1213
 msgid "the air is filled with dust, driven relentlessly by the hard winds."
-msgstr "l'air est plein de poussière, déplacé par des vents secs implacables."
+msgstr ""
+"el aire está lleno de polvo, movido implacablemente por los duros vientos."
 
 #: ../../script/events/setpieces.js:1221 ../../script/events/setpieces.js:1237
 #: ../../script/events/setpieces.js:1253 ../../script/events/setpieces.js:1269
@@ -2153,981 +2142,978 @@ msgstr "l'air est plein de poussière, déplacé par des vents secs implacables.
 #: ../../script/events/setpieces.js:2729 ../../script/events/setpieces.js:2773
 #: ../../script/events/setpieces.js:2816
 msgid "leave city"
-msgstr "quitter la cité"
+msgstr "abandonar ciudad"
 
 #: ../../script/events/setpieces.js:1228
 msgid "orange traffic cones are set across the street, faded and cracked."
-msgstr "des plots oranges barrent ce qui devait être autrefois une rue."
+msgstr ""
+"conos de tráfico naranjas se encuentran por la calle, desvanecidos y "
+"resquebrajados."
 
 #: ../../script/events/setpieces.js:1229
 msgid "lights flash through the alleys between buildings."
-msgstr "des lumières clignotent le long des allées entre les immeubles."
+msgstr "luces se emiten a través de callejones entre los edificios."
 
 #: ../../script/events/setpieces.js:1244
 msgid "a large shanty town sprawls across the streets."
-msgstr "un grand bidonville s'étend le long des rues."
+msgstr "un rancho grande aglomera las calles."
 
 #: ../../script/events/setpieces.js:1245
 msgid "faces, darkened by soot and blood, stare out from crooked huts."
-msgstr ""
-"dans des cabanes délabrées, des visages noirs de suie et de sang, observent"
+msgstr "rostros, oscurecidos por hollín y sangre, miran desde chozas torcidas."
 
 #: ../../script/events/setpieces.js:1260
 msgid "the shell of an abandoned hospital looms ahead."
-msgstr "les restes d'un hopital abandonné aparaissent droit devant."
+msgstr "el esqueleto de un hospital abandonado se ve adelante."
 
 #: ../../script/events/setpieces.js:1276
 msgid "the old tower seems mostly intact."
-msgstr "la vieille tour à l'air globalement intacte."
+msgstr "la vieja torre parece casi intacta."
 
 #: ../../script/events/setpieces.js:1277
 msgid "the shell of a burned out car blocks the entrance."
-msgstr "les restes d'une voiture brulée bloquent l'entrée."
+msgstr "el esqueleto de un auto quemado bloquea la entrada."
 
 #: ../../script/events/setpieces.js:1278
 msgid "most of the windows at ground level are busted anyway."
 msgstr ""
-"de toute façon, la plupart des fenêtres du rez de chaussée ont éclatées"
+"la mayoría de las ventanas en planta baja se encuentran rotas, de todas "
+"formas."
 
 #: ../../script/events/setpieces.js:1293
 msgid "a huge lizard scrambles up out of the darkness of an old metro station."
 msgstr ""
-"un énorme lézard s'extirpe de l'entrée sombre d'une vieille station de métro."
+"un enorme lagarto surge desde la oscuridad de una vieja estación de metro."
 
 #: ../../script/events/setpieces.js:1319
 msgid "descend"
-msgstr "descendre"
+msgstr "descender"
 
 #: ../../script/events/setpieces.js:1329
 msgid "the shot echoes in the empty street."
-msgstr "l'écho du tir se propage dans les rues désertes. "
+msgstr "el disparo hace eco en la calle vacía."
 
 #: ../../script/events/setpieces.js:1367
 msgid "the soldier steps out from between the buildings, rifle raised."
-msgstr "le soldat apparait entre deux immeubles, fusil à l'épaule."
+msgstr "el soldado sale desde los edificios, rifle apuntando."
 
 #: ../../script/events/setpieces.js:1405
 msgid "a frail man stands defiantly, blocking the path."
-msgstr "un homme frêle se tien debout, bloquant le chemin avec un air de défi."
+msgstr "un hombre frágil está de pie desafiantemente, bloqueando el camino."
 
 #: ../../script/events/setpieces.js:1448
 msgid "nothing but downcast eyes."
-msgstr "seul son regard démoralisé est visible."
+msgstr "nada más que ojos bajos."
 
 #: ../../script/events/setpieces.js:1449
 msgid "the people here were broken a long time ago."
-msgstr "les gens d'ici ont tout perdu il y'a longtemps."
+msgstr "la gente aquí fue rota hace mucho tiempo."
 
 #: ../../script/events/setpieces.js:1464
 msgid "empty corridors."
-msgstr "des couloirs vides."
+msgstr "corredores vacíos."
 
 #: ../../script/events/setpieces.js:1465
 msgid "the place has been swept clean by scavengers."
-msgstr "cet endroit à été completement nettoyé par des pillards."
+msgstr "el lugar ha sido vaciado por pepenadores."
 
 #: ../../script/events/setpieces.js:1479
 msgid "an old man bursts through a door, wielding a scalpel."
-msgstr "un vieil homme surgit d'une porte, armé d'un scalpel."
+msgstr "un hombre viejo irrumpe por la puerta, bisturí en mano."
 
 #: ../../script/events/setpieces.js:1516
 msgid "a thug is waiting on the other side of the wall."
-msgstr "un voyou attend de l'autre coté du mur."
+msgstr "un matón espera del otro lado del muro."
 
 #: ../../script/events/setpieces.js:1554
 msgid "a snarling beast jumps out from behind a car."
-msgstr "une bête grondante était caché derrière une voiture."
+msgstr "una bestia gruñona brinca desde atrás de un auto."
 
 #: ../../script/events/setpieces.js:1593
 msgid "street above the subway platform is blown away."
-msgstr "la rue au dessus de la station de metro à éxplosée."
+msgstr "la calle sobre la plataforma del subterráneo está destruída."
 
 #: ../../script/events/setpieces.js:1594
 msgid "lets some light down into the dusty haze."
-msgstr "un peu de lumière la dedans sera le bienvenue."
+msgstr "deja pasar luz a la bruma polvorienta."
 
 #: ../../script/events/setpieces.js:1595
 msgid "a sound comes from the tunnel, just ahead."
-msgstr "un bruit vient du tunnel, droit devant."
+msgstr "un sonido es emitido desde el túnel, justo en frente."
 
 #: ../../script/events/setpieces.js:1612
 msgid "looks like a camp of sorts up ahead."
-msgstr "quelque chose ressemblant à un campement devant."
+msgstr "parece un campamento adelante."
 
 #: ../../script/events/setpieces.js:1613
 msgid "rusted chainlink is pulled across an alleyway."
-msgstr "une chaine rouillée bloque l'entrée de l'allée."
+msgstr "una cadena oxidada es jalada desde el callejón."
 
 #: ../../script/events/setpieces.js:1614
 msgid "fires burn in the courtyard beyond."
-msgstr "un feu brûle dans une cour derrière."
+msgstr "fuego quema en el patio más allá."
 
 #: ../../script/events/setpieces.js:1630
 msgid "more voices can be heard ahead."
-msgstr "quelques voies semblent venir de devant."
+msgstr "más voces pueden ser escuchadas adelante."
 
 #: ../../script/events/setpieces.js:1631
 msgid "they must be here for a reason."
-msgstr "ils ne doivent pas être là sans raison."
+msgstr "deben estar aquí por una razón."
 
 #: ../../script/events/setpieces.js:1647
 msgid "the sound of gunfire carries on the wind."
-msgstr "un bruit d'arme à feu est porté par le vent."
+msgstr "el sonido de disparos se esparce con el viento."
 
 #: ../../script/events/setpieces.js:1648
 msgid "the street ahead glows with firelight."
-msgstr "la rue est illuminée par des flammes."
+msgstr "la calle adelante brilla con luz de fogata."
 
 #: ../../script/events/setpieces.js:1664
 msgid "more squatters are crowding around now."
-msgstr "de plus en plus de squatters se rassemblent."
+msgstr "más inmigrantes se reúnen alrededor ahora."
 
 #: ../../script/events/setpieces.js:1665
 msgid "someone throws a stone."
-msgstr "quelqu'un jete une pierre."
+msgstr "alguien lanza una piedra."
 
 #: ../../script/events/setpieces.js:1681
 msgid "an improvised shop is set up on the sidewalk."
-msgstr "un magasin improvisé est monté sur le trottoire."
+msgstr "un taller improvisado se establece en la banqueta."
 
 #: ../../script/events/setpieces.js:1682
 msgid "the owner stands by, stoic."
-msgstr "le propriétaire attend, stoïque."
+msgstr "el dueño espera, estoico."
 
 #: ../../script/events/setpieces.js:1725
 msgid "strips of meat hang drying by the side of the street."
-msgstr " des morceaux de viandes sechent sur le bord de la route."
+msgstr "trozos de carne cuelgan secándose al lado de la calle."
 
 #: ../../script/events/setpieces.js:1726
 msgid "the people back away, avoiding eye contact."
-msgstr "les gens reculent, évitant de croiser le regard."
+msgstr "la gente se retira, evitando contacto visual."
 
 #: ../../script/events/setpieces.js:1749
 msgid "someone has locked and barricaded the door to this operating theatre."
-msgstr "quelqu'un à fermé et barricadé la porte de cette salle d'opération."
+msgstr ""
+"alguien ha cerrado y barricado la puerta a este teatro en funcionamiento."
 
 #: ../../script/events/setpieces.js:1764
 msgid "a tribe of elderly squatters is camped out in this ward."
-msgstr "une tribue de vieux squatters campe dans ce quartier."
+msgstr "una tribu de inmigrantes acampa fuera en esta tutela."
 
 #: ../../script/events/setpieces.js:1803
 msgid "a pack of lizards rounds the corner."
-msgstr "au coin de la rue, plusieurs lézards."
+msgstr "una manada de lagartos da vuelta en la esquina."
 
 #: ../../script/events/setpieces.js:1843
 msgid "strips of meat are hung up to dry in this ward."
-msgstr ""
-"des morecaux de viande sont accrochés aux fenetres de la maison pour sécher."
+msgstr "trozos de carne cuelgan secándose en esta tutela."
 
 #: ../../script/events/setpieces.js:1865
 msgid "a large bird nests at the top of the stairs."
-msgstr "un grand nid d'oiseau en haut de l'éscalier."
+msgstr "un gran pájaro anida arriba de las escaleras."
 
 #: ../../script/events/setpieces.js:1894
 msgid "the debris is denser here."
-msgstr "il y'a plus de débrits par ici."
+msgstr "los resíduos son más densos aquí."
 
 #: ../../script/events/setpieces.js:1895
 msgid "maybe some useful stuff in the rubble."
-msgstr "il y'a peut être quelque chose d'utile dans ces décombres."
+msgstr "tal vez algo útil en los escombros."
 
 #: ../../script/events/setpieces.js:1932
 msgid "a swarm of rats rushes up the tunnel."
-msgstr "une meute de rats déboule du tunnel."
+msgstr "un enjambre de ratas llega rápidamente al túnel."
 
 #: ../../script/events/setpieces.js:1966
 msgid "a large man attacks, waving a bayonet."
-msgstr "un homme costaud attaque avec une baïonnette. "
+msgstr "un hombre grande ataca, agitando una bayoneta."
 
 #: ../../script/events/setpieces.js:1999
 msgid "a second soldier opens fire."
-msgstr "un deuxième soldat ouvre le feu."
+msgstr "un segundo soldado comienza a disparar."
 
 #: ../../script/events/setpieces.js:2038
 msgid "a masked soldier rounds the corner, gun drawn"
-msgstr "un soldat masqué apparaît a un croisement, l'arme au poing"
+msgstr "un soldado enmascarado a la vuelta de la esquina, arma lista"
 
 #: ../../script/events/setpieces.js:2077
 msgid "the crowd surges forward."
-msgstr "la foule s'élance."
+msgstr "la multitud surge hacia adelante."
 
 #: ../../script/events/setpieces.js:2111
 msgid "a youth lashes out with a tree branch."
-msgstr "un jeune attaque armé d'une branche d'arbre."
+msgstr "un joven golpea con una rama de árbol."
 
 #: ../../script/events/setpieces.js:2144
 msgid "a squatter stands firmly in the doorway of a small hut."
-msgstr "un squatter se tient fermement devant l'entrée d'une petite cabane."
+msgstr "un inmigrante permanece firmemente en la entrada de una choza pequeña."
 
 #: ../../script/events/setpieces.js:2177
 msgid "behind the door, a deformed figure awakes and attacks."
-msgstr "derrière la porte, une forme défigurée se réveille et attaque."
+msgstr "tras la puerta, una figura deforme despierta y ataca."
 
 #: ../../script/events/setpieces.js:2216
 msgid "as soon as the door is open a little bit, hundreds of tentacles erupt."
 msgstr ""
-"dès que la porte est entre ouverte, des centaines de tentacules surgissent."
+"tan pronto como la puerta se abre un poco, cientos de tentáculos surgen."
 
 #: ../../script/events/setpieces.js:2242
 msgid "bird must have liked shiney things."
-msgstr "l'oiseau devait aimer ce qui brille."
+msgstr "al ave parecían gustarle las cosas brillantes."
 
 #: ../../script/events/setpieces.js:2243
 msgid "some good stuff woven into its nest."
-msgstr "il y'a des choses intéressantes dans sont nid."
+msgstr "hay cosas buenas guardadas en su nido."
 
 #: ../../script/events/setpieces.js:2276
 msgid "not much here."
-msgstr "pas grand chose ici."
+msgstr "no hay mucho aquí."
 
 #: ../../script/events/setpieces.js:2277
 msgid "scavengers must have gotten to this place already."
-msgstr "les pillards ont déjà du trouver cet endroit."
+msgstr "los pepenadores debieron haber llegado antes a este lugar."
 
 #: ../../script/events/setpieces.js:2305
 msgid "the tunnel opens up at another platform."
-msgstr "le tunnel débouche sur une nouvelle station."
+msgstr "el túnel se abre en otra plataforma."
 
 #: ../../script/events/setpieces.js:2306
 msgid "the walls are scorched from an old battle."
-msgstr ""
-"les murs sont criblés d'impacts suite à des combats finis depuis longtemps."
+msgstr "los muros están agujereados por una vieja batalla."
 
 #: ../../script/events/setpieces.js:2307
 msgid "bodies and supplies from both sides litter the ground."
-msgstr "les corps et les provisions des deux factions sont éparpillés au sol."
+msgstr "cuerpos y provisiones de ambos lados se esparcen por el suelo."
 
 #: ../../script/events/setpieces.js:2351
 msgid "the small military outpost is well supplied."
-msgstr "le petit avant poste militaire est bien équipé."
+msgstr "el pequeño puesto avanzado militar está bien provisionado."
 
 #: ../../script/events/setpieces.js:2352
 msgid ""
 "arms and munitions, relics from the war, are neatly arranged on the store-"
 "room floor."
 msgstr ""
-"des armes et des munitions, reliques de la guerre, sont bien rangés dans "
-"l'armurerie."
+"armas y municiones, reliquias de la guerra, están pulcramente acomodadas en "
+"el piso del almacén."
 
 #: ../../script/events/setpieces.js:2353
 msgid "just as deadly now as they were then."
-msgstr "toujours aussi mortels."
+msgstr "tan letales ahora como eran entonces."
 
 #: ../../script/events/setpieces.js:2386
 msgid "searching the bodies yields a few supplies."
-msgstr "les corps sont fouillés pour trouver quelques objets de valeurs."
+msgstr "esculcar los cuerpos recompensa con algunas provisiones."
 
 #: ../../script/events/setpieces.js:2387
 msgid "more soldiers will be on their way."
-msgstr "d'autre soldats vont venir."
+msgstr "más soldados vendrán en camino."
 
 #: ../../script/events/setpieces.js:2388
 msgid "time to move on."
-msgstr "il est temps de repartir"
+msgstr "hora de marcharse."
 
 #: ../../script/events/setpieces.js:2426
 msgid "the small settlement has clearly been burning a while."
-msgstr "la petite colonie brûle visiblement depuis quelques temps."
+msgstr ""
+"el pequeño establecimiento claramente ha estado en llamas por un tiempo."
 
 #: ../../script/events/setpieces.js:2427
 msgid ""
 "the bodies of the wanderers that lived here are still visible in the flames."
 msgstr ""
-"les corps de quelques vagabonds qui s'étaient installés ici sont toujours "
-"visibles dans les flammes."
+"los cuerpos de los vagabundos que vivieron aquí aún son visibles en las "
+"llamas."
 
 #: ../../script/events/setpieces.js:2428
 msgid "still time to rescue a few supplies."
-msgstr "il est encore temps de sauver quelques objets."
+msgstr "todavía hay tiempo de rescatar algunas provisiones."
 
 #: ../../script/events/setpieces.js:2462
 msgid ""
 "the remaining settlers flee from the violence, their belongings forgotten."
 msgstr ""
-"les derniers habitants fuient la violence, laissant derrière eux tout leurs "
-"biens."
+"los colonos restantes huyen de la violencia, sus pertenencias olvidadas."
 
 #: ../../script/events/setpieces.js:2463
 msgid "there's not much, but some useful things can still be found."
-msgstr ""
-"il n'y a pas grand chose, mais il reste néanmois quelques objets utiles."
+msgstr "no hay mucho, pero algunas cosas útiles pueden ser encontradas."
 
 #: ../../script/events/setpieces.js:2496
 msgid "the young settler was carrying a canvas sack."
-msgstr "le jeune portait un sac."
+msgstr "el colono joven cargaba un saco de lona."
 
 #: ../../script/events/setpieces.js:2497
 msgid "it contains travelling gear, and a few trinkets."
-msgstr "il contient des objets pour voyager et quelques babioles."
+msgstr "contiene equipo de viaje, y algunos talismanes."
 
 #: ../../script/events/setpieces.js:2498 ../../script/events/setpieces.js:2533
 msgid "there's nothing else here."
-msgstr "il ny'a rien d'autre ici."
+msgstr "no hay nada más aquí."
 
 #: ../../script/events/setpieces.js:2531
 msgid "inside the hut, a child cries."
-msgstr "à l'intérieur de la cabane, un enfant pleur."
+msgstr "dentro de la choza, un niño llora."
 
 #: ../../script/events/setpieces.js:2532
 msgid "a few belongings rest against the walls."
-msgstr "quelques objets sont posés contre les murs."
+msgstr "unas cuantas pertenencias descanzan contra las paredes."
 
 #: ../../script/events/setpieces.js:2571
 msgid "the stench of rot and death fills the operating theatres."
-msgstr "le bloc opératoire empeste une odeur de pourriture et de mort."
+msgstr "la peste a pudredumbre y muerte llena los teatros operando."
 
 #: ../../script/events/setpieces.js:2572
 msgid "a few items are scattered on the ground."
-msgstr "quelques objets trainent sur le sol."
+msgstr "algunos objetos están esparcidos por el suelo."
 
 #: ../../script/events/setpieces.js:2573
 msgid "there is nothing else here."
-msgstr "il n'y a rien d'autre ici."
+msgstr "no hay nada más aquí."
 
 #: ../../script/events/setpieces.js:2611
 msgid "a pristine medicine cabinet at the end of a hallway."
-msgstr "au bout du couloir, une armoire à pharmacie en parfait état."
+msgstr "un impecable estante de medicamentos al final del pasillo."
 
 #: ../../script/events/setpieces.js:2612
 msgid "the rest of the hospital is empty."
-msgstr "le reste de l'hopital est vide."
+msgstr "el resto del hospital está vacío."
 
 #: ../../script/events/setpieces.js:2645
 msgid "someone had been stockpiling loot here."
-msgstr "quelqu'un a stocké plein de choses dedans."
+msgstr "alguien ha estado recogiendo provisiones aquí."
 
 #: ../../script/events/setpieces.js:2693
 msgid "the tentacular horror is defeated."
-msgstr "l'horreur tentaculaire est vaincue."
+msgstr "el terror tentacular ha sido derrotado."
 
 #: ../../script/events/setpieces.js:2694
 msgid "inside, the remains of its victims are everywhere."
-msgstr "a l'intérieur, les restes de ses victimes sont partout."
+msgstr "dentro, se encuentran sus víctimas por todo el lugar."
 
 #: ../../script/events/setpieces.js:2737
 msgid "the warped man lies dead."
-msgstr "l'homme déformé est mort."
+msgstr "el hombre deforme se encuentra muerto."
 
 #: ../../script/events/setpieces.js:2738
 msgid "the operating theatre has a lot of curious equipment."
-msgstr "le bloc opératoire contient un curieux matériel."
+msgstr "el teatro en operación tiene mucho equipo curioso."
 
 #: ../../script/events/setpieces.js:2781
 msgid "the old man had a small cache of interesting items."
-msgstr "le vieille homme avait une cachette contenant des objets intéréssants."
+msgstr "el hombre viejo tenía un pequeño caché de artículos interesantes."
 
 #: ../../script/events/setpieces.js:2824
 msgid "An Old House"
-msgstr "Une vieille maison"
+msgstr "Una Casa Vieja"
 
 #: ../../script/events/setpieces.js:2828
 msgid "an old house remains here, once white siding yellowed and peeling."
 msgstr ""
-"une vielle maison est toujours là. sa peinture, à l'origine blanche, est "
-"maintenant jaune et écaillée."
+"una casa vieja se encuentra aquí, una vez blanca ahora amarillenta y "
+"descarapelándose."
 
 #: ../../script/events/setpieces.js:2829
 msgid "the door hangs open."
-msgstr "la porte est ouverte"
+msgstr "la puerta está abierta."
 
 #: ../../script/events/setpieces.js:2831
 msgid "the remains of an old house stand as a monument to simpler times"
 msgstr ""
-"les restes d'une ancienne maison reste tel un monument en mémoire d'un temps "
-"ou les choses étaient plus simples"
+"los restos de una casa vieja se encuentran como monumento a tiempos más "
+"simples"
 
 #: ../../script/events/setpieces.js:2845
 msgid "the house is abandoned, but not yet picked over."
-msgstr "la maison est abandonnée, mais elle n'a pas encore été visitée."
+msgstr "la casa está abandonada, pero aún no ha sido saqueada."
 
 #: ../../script/events/setpieces.js:2846
 msgid "still a few drops of water in the old well."
-msgstr "il reste un peu d'eau dans le puit."
+msgstr "aún hay unas pocas gotas de agua en el viejo pozo."
 
 #: ../../script/events/setpieces.js:2879
 msgid "the house has been ransacked."
-msgstr "la maison à été saccagée."
+msgstr "la casa ha sido saqueada."
 
 #: ../../script/events/setpieces.js:2880
 msgid "but there is a cache of medicine under the floorboards."
-msgstr "mais il reste quelques médicaments dans une cachette sous le plancher."
+msgstr "pero hay un caché de medicamento bajo el piso."
 
 #: ../../script/events/setpieces.js:2907
 msgid "a man charges down the hall, a rusty blade in his hand"
-msgstr "un homme charge dans l'entrée, une vieille épée rouillée à la main"
+msgstr "un hombre ataca en el pasillo, una espada afilada en mano"
 
 #: ../../script/events/setpieces.js:2938
 msgid "A Forgotten Battlefield"
-msgstr "Un champ de bataille oublié"
+msgstr "Un Campo de Batalla Olvidado"
 
 #: ../../script/events/setpieces.js:2942
 msgid "a battle was fought here, long ago."
-msgstr "Une bataille à eu lieu ici, il y'a longtemps."
+msgstr "una batalla se peleó aquí, hace mucho."
 
 #: ../../script/events/setpieces.js:2943
 msgid ""
 "battered technology from both sides lays dormant on the blasted landscape."
 msgstr ""
-"les armes de bataille des deux factions sont commes endormies sur le paysage "
-"ravagé."
+"tecnología maltratada de ambos lados permanece dormida en el paisaje maldito."
 
 #: ../../script/events/setpieces.js:2990
 msgid "A Huge Borehole"
-msgstr "Un énorme forage"
+msgstr "Un Enorme Pozo"
 
 #: ../../script/events/setpieces.js:2994
 msgid "a huge hole is cut deep into the earth, evidence of the past harvest."
 msgstr ""
-"un trou énorme à été découpé dans la terre, une preuve d'une activité passée."
+"un enorme pozo está profundo en la tierra, evidencia de cosecha del pasado."
 
 #: ../../script/events/setpieces.js:2995
 msgid "they took what they came for, and left."
-msgstr "ils ont pris ce pour quoi ils étaient venus, puis sont repartis."
+msgstr "tomaron las cosas por las que vinieron, y se fueron."
 
 #: ../../script/events/setpieces.js:2996
 msgid ""
 "castoff from the mammoth drills can still be found by the edges of the "
 "precipice."
-msgstr "les énormes têtes de forages sont encore visibles au bord du gouffre."
+msgstr ""
+"desechos de los enormes perforadores aún pueden encontrarse a las orillas "
+"del precipicio."
 
 #: ../../script/events/setpieces.js:3018
 msgid "A Crashed Ship"
-msgstr "Un vaisseau écrasé"
+msgstr "Una Nave Estrellada"
 
 #: ../../script/events/setpieces.js:3027
 msgid ""
 "the familiar curves of a wanderer vessel rise up out of the dust and ash. "
 msgstr ""
-"la courbe familière d'un vaisseau de vagabond apparait derrière la poussière "
-"et la cendre."
+"las familiares curvas de una nave vagabunda se levantan del polvo y cenizas."
 
 #: ../../script/events/setpieces.js:3028
 msgid "lucky that the natives can't work the mechanisms."
-msgstr ""
-"heureusement que les natifs ne peuvent pas en comprendre le fonctionnement."
+msgstr "suerte que los nativos no pueden trabajar los mecanismos."
 
 #: ../../script/events/setpieces.js:3029
 msgid "with a little effort, it might fly again."
-msgstr "Avec quelques efforts, ça pourrait revoler."
+msgstr "con un poco de esfuerzo, podría volar de nuevo."
 
 #: ../../script/events/setpieces.js:3033
 msgid "salvage"
-msgstr "récupérer"
+msgstr "recuperar"
 
 #: ../../script/events/setpieces.js:3041
 msgid "The Sulphur Mine"
-msgstr "La mine de souffre"
+msgstr "La Mina de Sulfuro"
 
 #: ../../script/events/setpieces.js:3045
 msgid "the military is already set up at the mine's entrance."
-msgstr "les militaires sont déjà installés à l'entrée de la mine."
+msgstr "la milicia ya está establecida en la entrada de la mina."
 
 #: ../../script/events/setpieces.js:3046
 msgid "soldiers patrol the perimeter, rifles slung over their shoulders."
-msgstr ""
-"des soldats patrouillent dans le périmètre, fusils posés sur leurs épaules."
+msgstr "soldados patrullan el perímetro, rifles sobre sus hombros."
 
 #: ../../script/events/setpieces.js:3048
 msgid "a military perimeter is set up around the mine."
-msgstr "un périmètre sécurisé a été mis en place autour de la mine."
+msgstr "un perímetro militar se establece alrededor de la mina."
 
 #: ../../script/events/setpieces.js:3051 ../../script/events/setpieces.js:3195
 msgid "attack"
-msgstr "attaquer"
+msgstr "atacar"
 
 #: ../../script/events/setpieces.js:3086
 msgid "a soldier, alerted, opens fire."
-msgstr "un soldat, alerté, ouvre le feu."
+msgstr "un soldado, alertado, dispara."
 
 #: ../../script/events/setpieces.js:3093 ../../script/events/setpieces.js:3131
 #: ../../script/events/setpieces.js:3231 ../../script/events/setpieces.js:3263
 msgid "run"
-msgstr "courir"
+msgstr "correr"
 
 #: ../../script/events/setpieces.js:3124
 msgid "a second soldier joins the fight."
-msgstr "un deuxième soldat rejoint le combat."
+msgstr "un segundo soldado se une a la batalla."
 
 #: ../../script/events/setpieces.js:3156
 msgid "a grizzled soldier attacks, waving a bayonet."
-msgstr "un soldat grisonnant attaque à la baïonnette."
+msgstr "un soldado canoso ataca, agitando una bayoneta."
 
 #: ../../script/events/setpieces.js:3166
 msgid "the military presence has been cleared."
-msgstr "la présence militaire a été néttoyée."
+msgstr "la presencia militar ha sido desalojada."
 
 #: ../../script/events/setpieces.js:3167 ../../script/events/setpieces.js:3304
 #: ../../script/events/setpieces.js:3379
 msgid "the mine is now safe for workers."
-msgstr "la mine est maintenant sûre pour les mineurs."
+msgstr "la mina ahora está a salvo para los trabajadores."
 
 #: ../../script/events/setpieces.js:3169
 msgid "the sulphur mine is clear of dangers"
-msgstr "la mine de souffre est maintenant sans danger"
+msgstr "la mina de azufre está despejada de peligros"
 
 #: ../../script/events/setpieces.js:3185
 msgid "The Coal Mine"
-msgstr "Une mine de charbon"
+msgstr "La Mina de Carbón"
 
 #: ../../script/events/setpieces.js:3189
 msgid "camp fires burn by the entrance to the mine."
-msgstr "un feu de camps brûle a l'entrée de la mine."
+msgstr "fogatas de campamento se queman en la entrada a la mina."
 
 #: ../../script/events/setpieces.js:3190
 msgid "men mill about, weapons at the ready."
-msgstr "des hommes patrouillent, les armes chargées."
+msgstr "hombres patrullan, armas listas."
 
 #: ../../script/events/setpieces.js:3192
 msgid "this old mine is not abandoned"
-msgstr "cette vieille mine n'est pas abandonnée"
+msgstr "esta vieja mina no está abandonada"
 
 #: ../../script/events/setpieces.js:3224 ../../script/events/setpieces.js:3256
 msgid "a man joins the fight"
-msgstr "Une personne rejoint le combat"
+msgstr "un hombre se une a la batalla"
 
 #: ../../script/events/setpieces.js:3293
 msgid "only the chief remains."
-msgstr "seul le chef reste."
+msgstr "sólo el jefe queda."
 
 #: ../../script/events/setpieces.js:3303
 msgid "the camp is still, save for the crackling of the fires."
-msgstr "il ne reste plus qu'un camp vite avec un feu crépitant."
+msgstr "el campamento está en silencio, excepto por el ruido de las fogatas."
 
 #: ../../script/events/setpieces.js:3306
 msgid "the coal mine is clear of dangers"
-msgstr "La mine de charbon est sécurisée"
+msgstr "la mina de carbón está libre de peligros."
 
 #: ../../script/events/setpieces.js:3322
 msgid "The Iron Mine"
-msgstr "La mine de fer"
+msgstr "La Mina de Hierro"
 
 #: ../../script/events/setpieces.js:3326
 msgid "an old iron mine sits here, tools abandoned and left to rust."
 msgstr ""
-"ici se trouve une vieille mine de fer, les outils abandonnés, bon pour "
-"rouiller."
+"una vieja mina de hierro se encuentra aquí, herramientas abandonadas para "
+"oxidarse."
 
 #: ../../script/events/setpieces.js:3327
 msgid ""
 "bleached bones are strewn about the entrance. many, deeply scored with "
 "jagged grooves."
 msgstr ""
-"des os complètement blancs sont éparpillés autour de l'entrée. Nombre "
-"d'entre eux portent des traces de dents."
+"huesos descoloridos se encuentran esparcidos por la entrada. muchos, "
+"profundamente perforados con surcos irregulares."
 
 #: ../../script/events/setpieces.js:3328
 msgid "feral howls echo out of the darkness."
-msgstr "des hurlements de terreurs résonnent dans le noir."
+msgstr "aullidos salvajes hacen eco en la oscuridad."
 
 #: ../../script/events/setpieces.js:3330
 msgid "the path leads to an abandoned mine"
-msgstr "le chemin mène à une mine abandonnée"
+msgstr "el camino lleva a una mina abandonada"
 
 #: ../../script/events/setpieces.js:3368
 msgid "a large creature lunges, muscles rippling in the torchlight"
-msgstr ""
-"une grande créature se précipite, ses muscles ondulant sous la lumière des "
-"torches"
+msgstr "una gran creatura surge, músculos ondulándose a la luz de la antorcha"
 
 #: ../../script/events/setpieces.js:3378
 msgid "the beast is dead."
-msgstr "la bête est morte."
+msgstr "la bestia está muerta."
 
 #: ../../script/events/setpieces.js:3381
 msgid "the iron mine is clear of dangers"
-msgstr "la mine de fer est sûre."
+msgstr "la mina de hierro está libre de peligro"
 
 #: ../../script/events/setpieces.js:3398
 msgid "A Destroyed Village"
-msgstr "Un village détruit"
+msgstr "Una Villa Destruída"
 
 #: ../../script/events/setpieces.js:3402
 msgid "a destroyed village lies in the dust."
-msgstr "Des ruines d'un village recouvert de poussières."
+msgstr "una villa destruída yace en el polvo."
 
 #: ../../script/events/setpieces.js:3403
 msgid "charred bodies litter the ground."
-msgstr "des corps carbonisés jonchent le sol."
+msgstr "cuerpos achicharrados esparcidos por el suelo."
 
 #: ../../script/events/setpieces.js:3405
 msgid "the metallic tang of wanderer afterburner hangs in the air."
-msgstr "une odeur métallique flotte dans l'air."
+msgstr "el aroma metálico de vagabundo incinerado permanece en el aire."
 
 #: ../../script/events/setpieces.js:3419
 msgid "a shack stands at the center of the village."
-msgstr "une cabane se trouve au centre du village."
+msgstr "una choza se encuentra en el centro de la aldea."
 
 #: ../../script/events/setpieces.js:3420
 msgid "there are still supplies inside."
-msgstr "il reste des provisions à l'intérieur."
+msgstr "hay aún provisiones adentro."
 
 #: ../../script/events/setpieces.js:3424
 msgid "take"
-msgstr "prendre"
+msgstr "tomar"
 
 #: ../../script/events/setpieces.js:3431
 msgid "all the work of a previous generation is here."
-msgstr "tout le travail d'une ancienne génération est là."
+msgstr "todo el trabajo de una generación pasada está aquí."
 
 #: ../../script/events/setpieces.js:3432
 msgid "ripe for the picking."
-msgstr "qui attendent un nouveau propriétaire."
+msgstr "listo para un nuevo propietario."
 
 #: ../../script/events/encounters.js:7
 msgid "A Snarling Beast"
-msgstr "Une bête qui grogne"
+msgstr "Una Bestia Gruñona"
 
 #: ../../script/events/encounters.js:15
 msgid "snarling beast"
-msgstr "bête qui grogne"
+msgstr "bestia gruñona"
 
 #: ../../script/events/encounters.js:16
 msgid "the snarling beast is dead"
-msgstr "la bête grognante est morte."
+msgstr "la bestia gruñona está muerta"
 
 #: ../../script/events/encounters.js:39
 msgid "a snarling beast leaps out of the underbrush"
-msgstr "une bête grondante surgit des buissons"
+msgstr "una bestia gruñona salta desde un arbusto"
 
 #: ../../script/events/encounters.js:44
 msgid "A Gaunt Man"
-msgstr "Un homme décharné"
+msgstr "Un Hombre Demacrado"
 
 #: ../../script/events/encounters.js:52
 msgid "gaunt man"
-msgstr "homme décharné"
+msgstr "hombre demacrado"
 
 #: ../../script/events/encounters.js:53
 msgid "the gaunt man is dead"
-msgstr "l'homme décharné est mort."
+msgstr "el hombre demacrado está muerto"
 
 #: ../../script/events/encounters.js:76
 msgid "a gaunt man approaches, a crazed look in his eye"
-msgstr "un homme décharné approche, un regard dément dans ses yeux"
+msgstr "un hombre demacrado se acerca, con mirada frenética"
 
 #: ../../script/events/encounters.js:81
 msgid "A Strange Bird"
-msgstr "Un oiseau étrange"
+msgstr "Un Ave Extraña"
 
 #: ../../script/events/encounters.js:89
 msgid "strange bird"
-msgstr "oiseau étrange"
+msgstr "ave extraña"
 
 #: ../../script/events/encounters.js:90
 msgid "the strange bird is dead"
-msgstr "l'étrange oiseau est mort."
+msgstr "el ave extraña está muerta"
 
 #: ../../script/events/encounters.js:113
 msgid "a strange looking bird speeds across the plains"
-msgstr "un oiseau étrange vole rapidement  au dessus des plaines"
+msgstr "un ave de aspecto extraño vuela a través de la planicie"
 
 #: ../../script/events/encounters.js:119
 msgid "A Shivering Man"
-msgstr "Un homme tremblant"
+msgstr "Un Hombre Tembloroso"
 
 #: ../../script/events/encounters.js:127
 msgid "shivering man"
-msgstr "homme tremblant"
+msgstr "hombre tembloroso"
 
 #: ../../script/events/encounters.js:128
 msgid "the shivering man is dead"
-msgstr "l'homme tremblant est mort."
+msgstr "el hombre tembloroso está muerto"
 
 #: ../../script/events/encounters.js:156
 msgid "a shivering man approaches and attacks with surprising strength"
-msgstr "un homme tremblant s'approche et attaque avec une force surprenante"
+msgstr "un hombre tembloroso se acerca y ataca con una sorprendente fuerza"
 
 #: ../../script/events/encounters.js:161
 msgid "A Man-Eater"
-msgstr "Un mangeur d'homme"
+msgstr "Un Caníval"
 
 #: ../../script/events/encounters.js:169
 msgid "man-eater"
-msgstr "mangeur d'homme"
+msgstr "caníval"
 
 #: ../../script/events/encounters.js:170
 msgid "the man-eater is dead"
-msgstr "Le mangeur d'homme est mort"
+msgstr "el caníval está muerto"
 
 #: ../../script/events/encounters.js:193
 msgid "a large creature attacks, claws freshly bloodied"
-msgstr "Une grande créature attaque, les griffes dégoulinante de sang"
+msgstr "una gran creatura ataca, sus garras con sangre fresca"
 
 #: ../../script/events/encounters.js:198
 msgid "A Scavenger"
-msgstr "Un pilleur"
+msgstr "Un Pepenador"
 
 #: ../../script/events/encounters.js:206
 msgid "scavenger"
-msgstr "pilleur"
+msgstr "pepenador"
 
 #: ../../script/events/encounters.js:207
 msgid "the scavenger is dead"
-msgstr "le voleur est mort."
+msgstr "el pepenador está muerto"
 
 #: ../../script/events/encounters.js:235
 msgid "a scavenger draws close, hoping for an easy score"
-msgstr "Un pilleur s'approche, espérant un cible facile"
+msgstr "se acerca un pepenador, esperando una presa fácil"
 
 #: ../../script/events/encounters.js:240
 msgid "A Huge Lizard"
-msgstr "Un énorme lézard"
+msgstr "Un Enorme Lagarto"
 
 #: ../../script/events/encounters.js:248
 msgid "lizard"
-msgstr "lézard"
+msgstr "lagarto"
 
 #: ../../script/events/encounters.js:249
 msgid "the lizard is dead"
-msgstr "le lézard est mort"
+msgstr "el lagarto está muerto"
 
 #: ../../script/events/encounters.js:272
 msgid "the grass thrashes wildly as a huge lizard pushes through"
-msgstr "l'herbe bouge bizarrement et un énorme lézard surgit"
+msgstr ""
+"el pasto se movía salvajemente cuando un enorme lagarto sale a través de él"
 
 #: ../../script/events/encounters.js:278
 msgid "A Feral Terror"
-msgstr "Une terreur sauvage"
+msgstr "Un Terror Salvaje"
 
 #: ../../script/events/encounters.js:286
 msgid "feral terror"
-msgstr "terreur sauvage"
+msgstr "terror salvaje"
 
 #: ../../script/events/encounters.js:287
 msgid "the feral terror is dead"
-msgstr "la terreur sauvage est morte"
+msgstr "el terror salvaje está muerto"
 
 #: ../../script/events/encounters.js:310
 msgid "a beast, wilder than imagining, erupts out of the foliage"
-msgstr "une bête inimaginable surgit des feuillages"
+msgstr "una bestia, inimaginablemente salvaje, aparece desde el follaje"
 
 #: ../../script/events/encounters.js:315
 msgid "A Soldier"
-msgstr "Un soldat"
+msgstr "Un Soldado"
 
 #: ../../script/events/encounters.js:323
 msgid "soldier"
-msgstr "soldat"
+msgstr "soldado"
 
 #: ../../script/events/encounters.js:324
 msgid "the soldier is dead"
-msgstr "le soldat est mort"
+msgstr "el soldado está muerto"
 
 #: ../../script/events/encounters.js:353
 msgid "a soldier opens fire from across the desert"
-msgstr "un soldat ouvre feu dans le desert"
+msgstr "un soldado abre fuego a través del desierto"
 
 #: ../../script/events/encounters.js:358
 msgid "A Sniper"
-msgstr "Un sniper"
+msgstr "Un Francotirador"
 
 #: ../../script/events/encounters.js:366
 msgid "sniper"
-msgstr "sniper"
+msgstr "francotirador"
 
 #: ../../script/events/encounters.js:367
 msgid "the sniper is dead"
-msgstr "le sniper est mort"
+msgstr "el francotirador está muerto"
 
 #: ../../script/events/encounters.js:396
 msgid "a shot rings out, from somewhere in the long grass"
-msgstr "un tir retenti, quelque part dans les hautes herbes"
+msgstr "se oye un disparo, desde un lugar en el pasto alto"
 
 #: ../../script/events/outside.js:6
 msgid "A Ruined Trap"
-msgstr "Un piège détruit"
+msgstr "Una Trampa Arruinada"
 
 #: ../../script/events/outside.js:13
 msgid "some of the traps have been torn apart."
-msgstr "des pièges ont été mis en pièces"
+msgstr "algunas de las trampas han sido destruídas."
 
 #: ../../script/events/outside.js:14
 msgid "large prints lead away, into the forest."
-msgstr "de larges empruntes vont vers la forêt."
+msgstr "grandes huellas llevan hacia afuera, en el bosque."
 
 #: ../../script/events/outside.js:22
 msgid "some traps have been destroyed"
-msgstr "des pièges ont été détruits"
+msgstr "algunas trampas han sido destruídas"
 
 #: ../../script/events/outside.js:25
 msgid "track them"
-msgstr "les suivre"
+msgstr "seguirlas"
 
 #: ../../script/events/outside.js:36
 msgid "the tracks disappear after just a few minutes."
-msgstr "les empruntes disparaissent après quelques minutes."
+msgstr "las huellas desaparecen después de unos minutos."
 
 #: ../../script/events/outside.js:37
 msgid "the forest is silent."
-msgstr "la foret est silencieuse"
+msgstr "el bosque está en silencio."
 
 #: ../../script/events/outside.js:41 ../../script/events/outside.js:58
 #: ../../script/events/outside.js:98 ../../script/events/outside.js:115
 #: ../../script/events/outside.js:158 ../../script/events/outside.js:175
 #: ../../script/events/outside.js:206 ../../script/events/outside.js:236
 msgid "go home"
-msgstr "rentrer"
+msgstr "ir a casa"
 
 #: ../../script/events/outside.js:48
 msgid "not far from the village lies a large beast, its fur matted with blood."
 msgstr ""
-"pas loin du village gît une bête agonisante, sa fourrure pleine de sang."
+"no lejos de la aldea se encuentra una gran bestia, su pelaje manchado con "
+"sangre."
 
 #: ../../script/events/outside.js:49
 msgid "it puts up little resistance before the knife."
-msgstr "elle résiste faiblement face au couteau."
+msgstr "pone algo de resistencia ante el cuchillo."
 
 #: ../../script/events/outside.js:67
 msgid "Sickness"
-msgstr "Maladie"
+msgstr "Enfermedad"
 
 #: ../../script/events/outside.js:77
 msgid "a sickness is spreading through the village."
-msgstr "le village est contaminé par une maladie"
+msgstr "una enfermedad se esparce por la aldea."
 
 #: ../../script/events/outside.js:78 ../../script/events/outside.js:132
 msgid "medicine is needed immediately."
-msgstr "des médicaments sont nécessaires immédiatement."
+msgstr "se necesita medicamento inmediatamente."
 
 #: ../../script/events/outside.js:82
 msgid "1 medicine"
-msgstr "1 médicament"
+msgstr "1 medicamento"
 
 #: ../../script/events/outside.js:87
 msgid "ignore it"
-msgstr "l'ignorer"
+msgstr "ignorar"
 
 #: ../../script/events/outside.js:94
 msgid "the sickness is cured in time."
-msgstr "la maladie est soigné à temps."
+msgstr "la enfermedad se cura a tiempo."
 
 #: ../../script/events/outside.js:105
 msgid "the sickness spreads through the village."
-msgstr "la maladie se repend dans le village."
+msgstr "la enfermedad se esparce por la aldea."
 
 #: ../../script/events/outside.js:106
 msgid "the days are spent with burials."
-msgstr "les enterrements s’enchaînent durant des jours."
+msgstr "los días pasan con entierros."
 
 #: ../../script/events/outside.js:107 ../../script/events/outside.js:166
 msgid "the nights are rent with screams."
-msgstr "les nuits sont remplies de cris."
+msgstr "las noches llenas de gritos."
 
 #: ../../script/events/outside.js:124
 msgid "Plague"
-msgstr "La peste"
+msgstr "Plaga"
 
 #: ../../script/events/outside.js:131
 msgid "a terrible plague is fast spreading through the village."
-msgstr "une terrible peste se propage rapidement dans le village."
+msgstr "una terrible plaga se esparce rápidamente en la aldea."
 
 #: ../../script/events/outside.js:136
 msgid "5 medicine"
-msgstr "5 médicaments"
+msgstr "5 medicamentos"
 
 #: ../../script/events/outside.js:141
 msgid "do nothing"
-msgstr "ne rien faire"
+msgstr "hacer nada"
 
 #: ../../script/events/outside.js:148
 msgid "the plague is kept from spreading."
-msgstr "La peste ne se propage plus."
+msgstr "la plaga deja de esparcirse."
 
 #: ../../script/events/outside.js:149
 msgid "only a few die."
-msgstr "seuls quelques uns meurent."
+msgstr "sólo unos pocos mueren."
 
 #: ../../script/events/outside.js:150
 msgid "the rest bury them."
-msgstr "ils sont enterrés par les survivants."
+msgstr "el resto los enterrará."
 
 #: ../../script/events/outside.js:165
 msgid "the plague rips through the village."
-msgstr "la peste décime tout le village"
+msgstr "la plaga arrasa con la aldea."
 
 #: ../../script/events/outside.js:167
 msgid "the only hope is a quick death."
-msgstr "le seul espoir est une mort rapide."
+msgstr "la única esperanza es una muerte rápida."
 
 #: ../../script/events/outside.js:184
 msgid "A Beast Attack"
-msgstr "Une attaque de bête"
+msgstr "Un Ataque Bestial"
 
 #: ../../script/events/outside.js:191
 msgid "a pack of snarling beasts pours out of the trees."
-msgstr "une meute de bêtes sort de la foret."
+msgstr "una manada de bestias gruñonas sale de los árboles."
 
 #: ../../script/events/outside.js:192
 msgid "the fight is short and bloody, but the beasts are repelled."
-msgstr "le combat est bref et sanglant, mais les bêtes sont repoussées."
+msgstr "la pelea es corta y sangrienta, pero las bestias son vencidas."
 
 #: ../../script/events/outside.js:193
 msgid "the villagers retreat to mourn the dead."
-msgstr "les villageois rentrent et vont pleurer leurs morts"
+msgstr "los aldeanos se retiran a lamentar a los muertos."
 
 #: ../../script/events/outside.js:215
 msgid "A Military Raid"
-msgstr "Un raid militaire"
+msgstr "Una Incursión Militar"
 
 #: ../../script/events/outside.js:222
 msgid "a gunshot rings through the trees."
-msgstr "une détonation retenti dans la forêt."
+msgstr "se escucha un disparo a través de los árboles."
 
 #: ../../script/events/outside.js:223
 msgid "well armed men charge out of the forest, firing into the crowd."
-msgstr ""
-"des hommes armés surgissent hors de la foret et tirent sur tout ce qui bouge."
+msgstr "hombres bien armados salen del bosque, disparando a la multitud."
 
 #: ../../script/events/outside.js:224
 msgid "after a skirmish they are driven away, but not without losses."
-msgstr "ils sont repoussés après une escarmouche, mais pas sans pertes."
+msgstr "después del encuentro se marchan, pero no sin pérdidas."
 
 #: ../../script/events/global.js:6
 msgid "The Thief"
-msgstr "Le voleur"
+msgstr "El Ladrón"
 
 #: ../../script/events/global.js:13
 msgid "the villagers haul a filthy man out of the store room."
-msgstr "les villageois trainent un homme louche hors de l'entrepôt."
+msgstr "los aldeanos acarrean a un hombre sucio del almacén."
 
 #: ../../script/events/global.js:14
 msgid "say his folk have been skimming the supplies."
-msgstr "ils disent que cet homme à volé des provisions."
+msgstr "dicen que su grupo ha estado robando de las provisiones."
 
 #: ../../script/events/global.js:15
 msgid "say he should be strung up as an example."
-msgstr "ils disent qu'il devrait être pendu, pour l'exemple."
+msgstr "dicen que debería ser colgado para que sirva como ejemplo."
 
 #: ../../script/events/global.js:17
 msgid "a thief is caught"
-msgstr "un voleur est attrapé"
+msgstr "un ladrón es capturado"
 
 #: ../../script/events/global.js:20
 msgid "hang him"
-msgstr "le pendre"
+msgstr "colgarlo"
 
 #: ../../script/events/global.js:24
 msgid "spare him"
-msgstr "l'épargner"
+msgstr "liberarlo"
 
 #: ../../script/events/global.js:31
 msgid "the villagers hang the thief high in front of the store room."
-msgstr "les villageois pendent le voleur devant l’entrepôt."
+msgstr "los aldeanos cuelgan al ladrón a lo alto del frente del almacén."
 
 #: ../../script/events/global.js:32
 msgid ""
 "the point is made. in the next few days, the missing supplies are returned."
 msgstr ""
-"le message est passé. Les biens manquant sont rendus dans les jours qui "
-"suivent."
+"el mensaje se da a conocer. en los próximos días, las provisiones robadas "
+"han regresado."
 
 #: ../../script/events/global.js:48
 msgid "the man says he's grateful. says he won't come around any more."
-msgstr "l'homme dit être reconnaissant. Il dit qu'il ne reviendra plus."
+msgstr "el hombre dice estar agradecido. dice que ya no volverá."
 
 #: ../../script/events/global.js:49
 msgid "shares what he knows about sneaking before he goes."
-msgstr "il partage ses astuces pour être discret avant de s'en aller."
+msgstr "comparte lo que sabe de sigilo antes de irse."
 
 #~ msgid "the {0} is dead."
 #~ msgstr "le {0} est mort"
